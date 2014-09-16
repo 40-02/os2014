@@ -2,7 +2,7 @@
 
 * [О Сборнике](README.md)
 * [Основной поток](osnovnoi_potok/README.md)
-   * [П.Аброськин - ](osnovnoi_potok/pabroskin_-.md)
+   * [П.Аброськин](osnovnoi_potok/pabroskin_-.md)
    * [В.Красько](osnovnoi_potok/valerii_krasko.md)
    * [Волчков, Науменко](osnovnoi_potok/volchkov,_naumenko.md)
    * [Лепихов](osnovnoi_potok/lepihov.md)
