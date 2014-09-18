@@ -1,11 +1,11 @@
 # Внутренние оптимизаторы (Директ и AdWords) vs Внешние оптимизаторы (AdLens, Marin, К50):
 
-## Как выбрать наиболее эффективный инструмент?
+### Как выбрать наиболее эффективный инструмент?
 
 ##### Автор: Петр Аброськин, Директор по технологиям и аналитике, ArrowMedia
 ##### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/566057346839357/?type=1)
 
-## Вступление
+### Вступление
 
 На нашем рынке представлено более 40 систем автоматизации контекстной рекламы. Данные системы отличаются как по функционалу так и по задачам, которые решают. Условно системы можно разделить на [3 типа](http://marketing-wiki.ru/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%BE%D0%B9_%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B):
 
@@ -38,7 +38,7 @@
 Допустим, у вас выполнены эти условия, но теперь перед вами стоит выбор. Какую их систем выбрать? На рынке есть внешние решения (AdLens, Marin, К50 и др.), а также внутренние оптимизаторы от Яндекса и Google. Давайте рассмотрим их подробнее и выявим слабые и сильные стороны.
 
 
-## Плюсы и минусы встроенных оптимизаторов от Яндекс.Директ и Google AdWords
+### Плюсы и минусы встроенных оптимизаторов от Яндекс.Директ и Google AdWords
 
 ### Начнем с оптимизаторов в Google AdWords:
 
@@ -112,7 +112,7 @@
 
 **Подробнее **- https://support.google.com/adwords/answer/2979071?hl=ru
 
-## Как использовать инструменты оптимизации в Google AdWords?
+### Как использовать инструменты оптимизации в Google AdWords?
 
 ![boevoi-muzhik-bleat_59331052_orig_.jpg](https://lh3.googleusercontent.com/IaJw-gzbcHv2LsWX-KE3W-BGi7Rnre_zYjhL9pLXxIZFJDAfnAXE0P7YIUIUfk8ZxCOQZeanS7x5Nk5Mine2mcwSKAKyn0-SweiLFQNoBlKDO3VpqPVDEmGS_iPZMhDb0w)
 
@@ -151,7 +151,7 @@ http://searchenginewatch.com/article/2064650/Google-AdWords-Enhanced-CPC-vs.-Con
 
 http://conversionscientist.com/web-site-optimization/12-rules-maximizing-conversions-adwords/
 
-## Оптимизаторы в Яндекс.Директ:
+### Оптимизаторы в Яндекс.Директ:
 
 >Искусство управлять современной контекстной рекламой - это искусство управления инструментами автоматизации.
 
@@ -217,7 +217,7 @@ http://conversionscientist.com/web-site-optimization/12-rules-maximizing-convers
 **Вердикт:** Пока в бете (недостаточно данных для выводов).
 
 
-## Как использовать инструменты оптимизаторы в Яндекс.Директ?
+### Как использовать инструменты оптимизаторы в Яндекс.Директ?
 
 ![boevoi-muzhik-bleat_59331052_orig_.jpg](https://lh4.googleusercontent.com/SAuJ_xbiyK85dxF47SG2SBVmj5kMZ4maUiC26z_9twPUzFOfnwYnN5-P7WROyHQCc6-Bwxgar9vORxvS0epCPSvDdfUf7wTjhbCXQgC57jK6XLusSw4-cOdaHxsxvc4Bfg)
 
@@ -249,7 +249,7 @@ http://conversionscientist.com/web-site-optimization/12-rules-maximizing-convers
 Если есть потребность в оптимизаторе, то лучше, на мой взгляд, начать с внутренних решений. Во-первых это бесплатно. Во-вторых иногда они показывают результаты не хуже, чем внешние системы (см. кейсы).
 
 
-## Плюсы и минусы внешних оптимизаторов
+### Плюсы и минусы внешних оптимизаторов
 
 Я расскажу только про те системы, с которыми я достаточно долго работал (и работаю по сей день). ![technology_item_01.png](https://lh5.googleusercontent.com/HUe2gksQve3zxf0IvD-hxYAuDoaQLuOkrlkj1Ij3TZ07cMoiVkHiU9g8gu1pOQ2WBaIzxpFV9uW6qZ_qYJcxYGZXozy-RlxJHA-yfymK6mHSZuClUChYlUOXbxPH2drXNw)
 
@@ -449,7 +449,7 @@ http://www.icontext.ru/adobe_adlens/
 
 - очень важно следить за системой. В моей практике, неправильная настройка системы очень сильно влияла на эффективность (увеличивала расходы в разы.). Поэтому лучше несколько раз перепроверить все настройки до запуска и усиленно мониторить первые 2-3 недели.
 
-## Кейс: Одновременное тестирование внешних оптимизаторов и оптимизатора в Директе
+### Кейс: Одновременное тестирование внешних оптимизаторов и оптимизатора в Директе
 
 ![morfeus_59335933_orig_.jpeg](https://lh5.googleusercontent.com/IX0LWlLnE7vWZHFtH1CjC8sKE33U5pZ-x6Zr6HBcFJldjdgm_Bm40v1Buze4SMmX1bL19QLIIxKi_gg1YwUkVy_KBS7OSH1bnfPYMWDxC2nYn0yVQ59Qj_8ruju0nrGdug)
 

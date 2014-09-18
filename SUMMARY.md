@@ -3,7 +3,7 @@
 * [О Сборнике](README.md)
 * [Основной поток](osnovnoi_potok/README.md)
    * [Петр Аброськин](osnovnoi_potok/pabroskin_-.md)
-   * [Черницкая](osnovnoi_potok/chernitskaya.md)
+   * [Мария Черницкая](osnovnoi_potok/chernitskaya.md)
    * [Валерий Красько](osnovnoi_potok/valerii_krasko.md)
    * [Сергей Волчков, Елена Науменко](osnovnoi_potok/volchkov,_naumenko.md)
    * [Максим Лепихов](osnovnoi_potok/lepihov.md)
