@@ -17,7 +17,7 @@
    * [Власов](osnovnoi_potok/vlasov.md)
    * [Бабаев](osnovnoi_potok/babaev.md)
 * [Агентский Поток](agentskii_potok.md)
-   * [Рудаков](agentskiy_potok/rudakov)
+   * [Рудаков](agentskiy_potok/rudakov.md)
    * [Караулова](agentskiy_potok/karaulova.md)
    * [Волошин](agentskiy_potok/voloshin.md)
    * [Девятых](agentskiy_potok/devyatih.md)

@@ -2,8 +2,9 @@
 
 ## Как навести в агентстве порядок
 
-Анна Караулова,
-директор по развитию рекламного агентства i-Media
+##### Автор: Анна Караулова, директор по развитию рекламного агентства i-Media
+##### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/565662420212183/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/)
+
 
 Представьте себе среднестатистическое рекламное агентство. Представили?
 
@@ -61,9 +62,9 @@
 
 Конфликты с соседними отделами не исчезнут, но вы начнете чаще их выигрывать. Трудно спорить с тем, что написано на бумаге, и с чем в прошлом согласился. Распределение участков работ позволяет сфокусироваться на решении уникальных проблем, и отставить в сторону бесконечные выяснения, кто должен решать ту или иную задачу.
 
-Одно из очень важных следствий: сотрудники начинают видеть результаты своего труда. Потратьте время, посмотрите видео по ссылке. В нем один из моих самых любимых спикеров – Дэн Ариэли – рассказывать про эксперимент, в ходе которого выяснялось, как долго человек готов выполнять однотипные задачи в изменяемых обстоятельствах, и как изменение обстоятельств влияет на готовность человека работать над однотипными задачами.
+Одно из очень важных следствий: сотрудники начинают видеть результаты своего труда. Потратьте время, посмотрите видео по [ссылке](http://www.google.com/url?q=http%3A%2F%2Fwww.ted.com%2Ftalks%2Fdan_ariely_what_makes_us_feel_good_about_our_work&sa=D&sntz=1&usg=AFQjCNGzgYoCezLarsn4jeJpZaDNfBL3Og). В нем один из моих самых любимых спикеров – Дэн Ариэли – рассказывать про эксперимент, в ходе которого выяснялось, как долго человек готов выполнять однотипные задачи в изменяемых обстоятельствах, и как изменение обстоятельств влияет на готовность человека работать над однотипными задачами.
 
-![](https://lh4.googleusercontent.com/SSNL8MViBKpspGYchqjfNvf4uE9boBWFwGOgmMxAT7q59DsURbWwrCgfukEhdU36mNy_B2wo-pFTKoXdLOBeHt-ZJ-AFe_QfZBy_1BIgUKysZLkatLaXRJZRVyat_k8TysDq3Q7MuuQ)![](https://lh5.googleusercontent.com/oKm7CHL5B4f3jSazpSirFhv82c4vN0xigyWt9t02qVMbTq9czB_QbFIg9uTC9F2nMDgoH4CzBHqF0sEg3S_AGjUXe9GJf2NoF32RuLvD3tyjwcD9kG7gEioersXiiWa5BKystLqvol4)![](https://docs.google.com/drawings/image?id=sYX_au7MypUF3zDF6vlN91A&rev=1&h=36&w=318&ac=1)
+![](https://www.evernote.com/shard/s9/sh/a885dcac-b765-4ab7-a027-b5240e731778/73427f1dceb82a234432b1d4f3491240/deep/0/a12.-Анна-Караулова-----Google-Docs.png)
 
 Один из выводов исследования заключается в том, что если человек видит хотя бы малейшее одобрение, он дольше продолжает эксперимент. И наоборот: если человек видел, как результаты его труда уничтожаются, он прерывал эксперимент очень быстро.
 
@@ -99,7 +100,7 @@
 Не включайте в регламенты описания, которые не имеют практической пользы. Не стоит также переписывать учебники по бизнес-этикету. Содержание регламентов должно быть легко применимо на практике и приносить пользу сотрудникам в их повседневной работе.
 
 
-![](https://lh6.googleusercontent.com/xpfoyqC4Q_f2Fipeggd3K2TXr-NE4uRipYStrkSjrAZVy-7tP-gEw7vp1Fp_v2P3fUR96BpMWYLA8p2N6dkMjYO01qDt6JphgIBfEByHnMUip01JP9pRdFrYuy-FHmxwh5c9-gEbiWE)![](https://lh5.googleusercontent.com/4XcwCyQHwVxU5wlvOdtW3DY6jW2yhsrf9f_yvegMehR2ZCK-TUvwvThka2sahpQAJpA6SqzNxNZW_iMt9f-wW6EAkcPx8as3YSybncdVvznAH9dQl_zt7tNeD-XY1pKx7jODddZuk50)
+![](https://www.evernote.com/shard/s9/sh/ca945051-f017-4e5b-84b9-cdc50041c2b5/3cabd38c9c3bacb206642d8a41569d6e/deep/0/a12.-Анна-Караулова-----Google-Docs.png)
 
 
 * Оформите документы просто и удобно
@@ -125,7 +126,7 @@
 
 Иначе ваши правила перестанут быть правилами, а останутся только словами, написанными на бумаге.
 
-![](https://lh6.googleusercontent.com/xpfoyqC4Q_f2Fipeggd3K2TXr-NE4uRipYStrkSjrAZVy-7tP-gEw7vp1Fp_v2P3fUR96BpMWYLA8p2N6dkMjYO01qDt6JphgIBfEByHnMUip01JP9pRdFrYuy-FHmxwh5c9-gEbiWE)![](https://lh3.googleusercontent.com/5uTzswwWied8il28pG39Jl4ZGgS8ce6c_NIacBEfeDq8tnTI_AmaPu5Kgfdp0VKR8DZoMk_lT45trRPTMOPKBbOlVmkVeZu-cny3_mDoZxWs46gPfCAF7-GL9quhmAC60GqTl5cMpnk)
+![](https://www.evernote.com/shard/s9/sh/af26d939-4492-4ff8-af7e-562516839ef2/06c61dc8744a9bb5c3b12a15c6cc40c5/deep/0/a12.-Анна-Караулова-----Google-Docs.png)
 
 
 * Из правил не должно быть исключений
@@ -186,7 +187,7 @@
 
 Если бизнес-процессы в агентстве описаны, обычно они выглядят следующим образом (рис. 1):
 
-![](https://lh5.googleusercontent.com/Z-1RIg406eSj_ZA4h8lPsDARpXGRIR5c5425hMtpsomj5VUh6f47x7AZfWEW1NqVmImr5jK4UgeDY6JIs2M-kh4ZEbOTec4poOAgsbMlCe992dPt5RA57e7ygEkjJzqOdlfS0eOaQlw)![](https://lh6.googleusercontent.com/ySaEmZBZORI-dIz0yleZmOOjHsyAzH9WAnXb6bm10tVwWs2TfFqnirEv7q9-ZCkejcOVWm7dLeQLL258OKrWWDiUCa0EgHpBm2B-4qU-fwH_-XHkTbQEEmYxozo1V5egjjIatZYRVA4)
+![](https://www.evernote.com/shard/s9/sh/0c495ab0-fd4d-4985-a3fa-d071c97dccc2/3923d74c189c2ac1827e48f7005afeac/deep/0/a12.-Анна-Караулова-----Google-Docs.png)
 
 Рисунок 1: Привычное описание процессов в контекстном агентстве
 
@@ -213,7 +214,7 @@
 
 Обычно для этого используют Microsoft Word. Задачи пишутся одна за другой. Иногда внутри пунктов выделяются сроки и ответственные (рис. 2).
 
-![](https://lh6.googleusercontent.com/xpfoyqC4Q_f2Fipeggd3K2TXr-NE4uRipYStrkSjrAZVy-7tP-gEw7vp1Fp_v2P3fUR96BpMWYLA8p2N6dkMjYO01qDt6JphgIBfEByHnMUip01JP9pRdFrYuy-FHmxwh5c9-gEbiWE)![](https://lh5.googleusercontent.com/AdegsgfwbOx-c3uwRl5iwWicWEmctPrtXS0maF9KZRXI3BwHxNakZqdrImpYfSgtIHkhQyrURQYhZBwv9QfCOb9Mark0FsnHCJ-9bYe0GaP90U0nSxinPzfzQKyHNDah3zLLoqIpI2c)
+![](https://www.evernote.com/shard/s9/sh/c0f1b5af-3f69-4827-9c61-897c6048c9da/a72a3c4ea0a247d753649ca163bece66/deep/0/a12.-Анна-Караулова-----Google-Docs.png)
 
 Рисунок 2. Описание бизнес-процессов в Microsoft Word
 
@@ -226,7 +227,7 @@
 
 Немногим лучше описание процессов в Microsoft Excel (рис. 3)
 
-![](https://lh6.googleusercontent.com/xpfoyqC4Q_f2Fipeggd3K2TXr-NE4uRipYStrkSjrAZVy-7tP-gEw7vp1Fp_v2P3fUR96BpMWYLA8p2N6dkMjYO01qDt6JphgIBfEByHnMUip01JP9pRdFrYuy-FHmxwh5c9-gEbiWE)![](https://lh3.googleusercontent.com/22qj_YRwTJlud19JdNdPFjmXO7UsyWYgOir8Q4NtzQkhgK3VjnPGJCBw8ROCu3LGc_pL3iqr9LEgSaIYalOFpGYFuL_rQSQvVM-b-8ldJ6VPn7QeTYLL59k3qb1Rx9mo4GILju_KAu8)
+![](https://www.evernote.com/shard/s9/sh/aa700451-ac05-4a46-bece-dfaae36828b5/5492903dd4a43869e7fe5a6e70b5f85d/deep/0/a12.-Анна-Караулова-----Google-Docs.png)
 
 Рисунок 3. Описание бизнес-процессов в Microsoft Excel
 
@@ -238,7 +239,7 @@ Excel лучше, чем Word, справляется с отображение�
 
 Те, кто много работает в Power Point, понимает, что основной плюс этой программы является ее же основным минусом. Power Point создан для покадрового (послайдового) отображения документа. В один слайд Power Point помещается только маленькая часть бизнес-процесса. Для того, чтобы описать бизнес-процесс целиком нужно очень много слайдов (рис. 4).
 
-![](https://lh6.googleusercontent.com/xpfoyqC4Q_f2Fipeggd3K2TXr-NE4uRipYStrkSjrAZVy-7tP-gEw7vp1Fp_v2P3fUR96BpMWYLA8p2N6dkMjYO01qDt6JphgIBfEByHnMUip01JP9pRdFrYuy-FHmxwh5c9-gEbiWE)![](https://lh3.googleusercontent.com/1Z4tJqzzYV8bmZQP8SQL8HmN0H1qAm0Tnf5hi4PXHUuTDeMk9TusPaV59VMLz5sPMAo1ko2LW6pAQ_IVb0eUM3A3dOTh6Hku1WN2LEtcklq_zf7PYxeCo_A2534LiVszSahVNh8cfmQ)
+![](https://www.evernote.com/shard/s9/sh/c0f1b5af-3f69-4827-9c61-897c6048c9da/a72a3c4ea0a247d753649ca163bece66/deep/0/a12.-Анна-Караулова-----Google-Docs.png)
 
 Рисунок 4. Описание бизнес-процессов в Power Point
 
@@ -248,7 +249,7 @@ Excel лучше, чем Word, справляется с отображение�
 
 Ментальные (ассоциативные карты) карты созданы как способ изображения процессов с помощью схем. Изучение теории работы с ментальными картами занимает полчаса. Редакторы, которые созданы для их рисования, удобны и просты. Ментальные карты – идеальный инструмент для описывания бизнес-процессов компании (рис. 5).
 
-![](https://lh6.googleusercontent.com/oEDt3XiCxMbdL-GP0_O-4JK0elhN_Gr53QWdUEtiTlalRlP54OV793kpFt4vu_rA4V0iyF_PH70nNyvcopE3q_cUqj_q6R-bKvX4OAXQsJXKKLibmkdWKvlFd69JEmc-QI1cSuXaMmQ)![](https://lh6.googleusercontent.com/RVXOBlkyYiv-VRkuC3OWpX-70_ycxG-p323Mq5Krr3GcXNZPMPxqfWs7XU4SVjP9Bbs2EUuDRrWIhWLWasfdcDfg5WWkBupACTPDhPi1STU9PAlLV3zNEMdBjN_QruxpJvE61I-OGgs)![](https://lh6.googleusercontent.com/sz3Ktw75dK-w08GELS9eehYInCZ0h82uu6LqbUXkaN6V-QHf8m5HhJPIOA8_Gbefr69mzOhGpA7ZmaYya6EZQEylRnPks0wx7zqaGlAqwlTGbZO2iGT4sWKG6XxVS-8rw6kbCfsS1nw)
+![](https://www.evernote.com/shard/s9/sh/e0e5414a-c820-4e3b-96c0-f0324071b704/79bce66651b28332167c84559647de37/deep/0/a12.-Анна-Караулова-----Google-Docs.png)
 
 Рисунок 5. Описание бизнес-процессов с помощью ментальных карт
 
@@ -273,7 +274,7 @@ Excel лучше, чем Word, справляется с отображение�
 
 Специальные редакторы
 
-![](https://lh6.googleusercontent.com/xpfoyqC4Q_f2Fipeggd3K2TXr-NE4uRipYStrkSjrAZVy-7tP-gEw7vp1Fp_v2P3fUR96BpMWYLA8p2N6dkMjYO01qDt6JphgIBfEByHnMUip01JP9pRdFrYuy-FHmxwh5c9-gEbiWE)![](https://lh4.googleusercontent.com/GB-2_tRu_miCIqRQUrN2ajxlZiUi351CUp6jsWU9zrUgZ50KJoK1HxlPShGySCusyHrvKyNFavUaIFsDhbwmbnKgCnNVUAPYfRwqLcoWbYXuvWbwvl23iFQnwg1FL9W29PWcJQbtTwU)
+![](https://www.evernote.com/shard/s9/sh/7797f850-dc9f-418e-8a57-425f7a522ffb/ddad71b1fc8232637052d6a52b4f1b43/deep/0/a12.-Анна-Караулова-----Google-Docs.png)
 
 Это программное обеспечение, которое оперирует с объектами бизнес-моделирования. Мне не встречалось хороших редакторов бизнес-процессов, которые существовали бы отдельно от систем автоматизации. По сути профессиональные редакторы нужны для организации типовых сущностей CRM- и ERP-систем в некую индивидуальную структуру, подходящую для определенной компании.
 
@@ -336,6 +337,4 @@ Excel лучше, чем Word, справляется с отображение�
 Анна Караулова,
 директор по развитию рекламного агентства i-Media
 
-
-
-
+##### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/565662420212183/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/)
