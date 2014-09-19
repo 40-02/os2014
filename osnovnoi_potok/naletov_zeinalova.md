@@ -287,7 +287,9 @@
 ![](https://lh5.googleusercontent.com/bYsjGTna7W-NDL2bK0xxrml-NvTsSOQXwMz4_Y8sGSNdJ2NBifXOGseGvqkIahNccPwrURbIJR2Tlz3Cz1z9W3lIP_uwcHM2gZVwMIlseAwUNJ2gKUCAsqRamAOiVsytbg)
 
 
-Инструкцию по созданию вы можете найти по этой ссылке [ссылка]
+Инструкцию по созданию вы можете найти по этой [ссылке](http://bit.ly/ad_rank_artics).
+
+[Обсуждение инструмента](https://www.facebook.com/photo.php?fbid=704481466297220&set=gm.707447172669502&type=1&theater)
 
 
 ### Про A/B тестирование
