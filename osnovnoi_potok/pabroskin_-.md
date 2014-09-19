@@ -42,7 +42,7 @@
 
 ### Начнем с оптимизаторов в Google AdWords:
 
-![cowboy-180x200.png](https://lh6.googleusercontent.com/mGZ7zDAjv9qXXk3Zutc9S4ztyDoZeR-JDHni6IMJzU6cKPMwahmGTIrnkZuNY1210Oue3p1BR5T3uYa-erZHynwiVCaw8QBgE2omG-zsYeDM1mNpAc8POVa6z1HxQTKJjw)
+<img src="https://lh6.googleusercontent.com/mGZ7zDAjv9qXXk3Zutc9S4ztyDoZeR-JDHni6IMJzU6cKPMwahmGTIrnkZuNY1210Oue3p1BR5T3uYa-erZHynwiVCaw8QBgE2omG-zsYeDM1mNpAc8POVa6z1HxQTKJjw" alt="" width="100" align="right">
 
 ### 1. Оптимизатор цены за конверсию в AdWords (Enhanced CPC)
 
@@ -62,7 +62,7 @@
 
 Подробнее - [https://support.google.com/adwords/answer/2464964?hl=ru](https://support.google.com/adwords/answer/2464964?hl=ru)
 
-![friendlyfoe_0-190x200.png](https://lh5.googleusercontent.com/9zXJCT7OIYb_2LMWN7SG0L77GXsRRcj6sCvbw3_JNB5brNROmS54Pgy3Wke0Y9AJDWi8_TslLFP4iGs61ttbrk77-L3IEyVfzJDVHjQQGxx_4p0meovQPWnorGiVVt6ggw)
+<img src="https://lh5.googleusercontent.com/9zXJCT7OIYb_2LMWN7SG0L77GXsRRcj6sCvbw3_JNB5brNROmS54Pgy3Wke0Y9AJDWi8_TslLFP4iGs61ttbrk77-L3IEyVfzJDVHjQQGxx_4p0meovQPWnorGiVVt6ggw" alt="" width="100" align="right">
 
 ### 2. Оптимизатор конверсий в AdWords (Conversion Optimizer).
 
@@ -88,7 +88,7 @@
 
 Подробнее: [https://support.google.com/adwords/answer/2471188?hl=ru](https://support.google.com/adwords/answer/2471188?hl=ru)
 
-![2008_11_01_pipboy_1-180x200.png](https://lh5.googleusercontent.com/CnMRLeXLxA69EBpKsmPa_1a1yqzVv4kZg6mooD3lntTuwqR88dEmzSWe1rK91uA45SQUQHJncHZ0dkgysyXGd5Ui-upFQzrbG3YT5bZ8r-HU3DCD-PY5WwBxVZnFFfq2iw)
+<img src="https://lh5.googleusercontent.com/CnMRLeXLxA69EBpKsmPa_1a1yqzVv4kZg6mooD3lntTuwqR88dEmzSWe1rK91uA45SQUQHJncHZ0dkgysyXGd5Ui-upFQzrbG3YT5bZ8r-HU3DCD-PY5WwBxVZnFFfq2iw" alt="" width="100" align="right">
 
 ### 3. Гибкие стратегии в AdWords (оптимизаторы):
 
@@ -114,7 +114,7 @@
 
 ### Как использовать инструменты оптимизации в Google AdWords?
 
-![boevoi-muzhik-bleat_59331052_orig_.jpg](https://lh3.googleusercontent.com/IaJw-gzbcHv2LsWX-KE3W-BGi7Rnre_zYjhL9pLXxIZFJDAfnAXE0P7YIUIUfk8ZxCOQZeanS7x5Nk5Mine2mcwSKAKyn0-SweiLFQNoBlKDO3VpqPVDEmGS_iPZMhDb0w)
+<center><img src="https://lh3.googleusercontent.com/IaJw-gzbcHv2LsWX-KE3W-BGi7Rnre_zYjhL9pLXxIZFJDAfnAXE0P7YIUIUfk8ZxCOQZeanS7x5Nk5Mine2mcwSKAKyn0-SweiLFQNoBlKDO3VpqPVDEmGS_iPZMhDb0w" alt="" width="400"></center>
 
 Я прилагаю инструкцию по оптимальной (на мой взгляд) стратегии использования внутренних оптимизаторов:
 
@@ -159,7 +159,7 @@ http://conversionscientist.com/web-site-optimization/12-rules-maximizing-convers
 
 Они служат подтверждением того, что Яндекс активно развивает свои системы автоматизации и делает на них большую ставку. На данный момент, в открытом доступе есть 2 стратегии Яндекса, которые позволяют оптимизировать ставки по KPI.
 
-![Commando.png](https://lh3.googleusercontent.com/uD8BJJhYZFlmjFdx-ehlQi2fVgam3lhTvbQrhvNgtDrKK1RdvBBXQf9NjTHlW5uycAVxueeDmHUUeqToXOOr67_TTHIqKbQNeURW1LcFgRkBdDRNJBaNv8qOkuRJAPNufw)
+<img src="https://lh3.googleusercontent.com/uD8BJJhYZFlmjFdx-ehlQi2fVgam3lhTvbQrhvNgtDrKK1RdvBBXQf9NjTHlW5uycAVxueeDmHUUeqToXOOr67_TTHIqKbQNeURW1LcFgRkBdDRNJBaNv8qOkuRJAPNufw" alt="" width="100" align="right">
 
 ### 1. Недельный бюджет: максимальная конверсия
 
@@ -177,7 +177,7 @@ http://conversionscientist.com/web-site-optimization/12-rules-maximizing-convers
 
 **Подробнее -** [https://direct.yandex.ru/help/?id=990426](https://direct.yandex.ru/help/?id=990426)
 
-![Icon_nvdlc02perk_grunt.png](https://lh3.googleusercontent.com/WJ-hlrMYz0-8FcP0OhM8KLhHLjRyX2Gut7qyJDNBmc_HMYSknpUqVRlxUk4-FTaA7ZKlobfkNkxUQiQjs1-FnuGY0QMjZTAIk0Vgj6ux2pFGKGumvyunNuShKyYNxG6hbw)
+<img src="https://lh3.googleusercontent.com/WJ-hlrMYz0-8FcP0OhM8KLhHLjRyX2Gut7qyJDNBmc_HMYSknpUqVRlxUk4-FTaA7ZKlobfkNkxUQiQjs1-FnuGY0QMjZTAIk0Vgj6ux2pFGKGumvyunNuShKyYNxG6hbw" alt="" width="100" align="right">
 
 ### 2. Стратегия: средняя цена конверсии
 
@@ -219,7 +219,7 @@ http://conversionscientist.com/web-site-optimization/12-rules-maximizing-convers
 
 ### Как использовать инструменты оптимизаторы в Яндекс.Директ?
 
-![boevoi-muzhik-bleat_59331052_orig_.jpg](https://lh4.googleusercontent.com/SAuJ_xbiyK85dxF47SG2SBVmj5kMZ4maUiC26z_9twPUzFOfnwYnN5-P7WROyHQCc6-Bwxgar9vORxvS0epCPSvDdfUf7wTjhbCXQgC57jK6XLusSw4-cOdaHxsxvc4Bfg)
+<center><img src="https://lh3.googleusercontent.com/IaJw-gzbcHv2LsWX-KE3W-BGi7Rnre_zYjhL9pLXxIZFJDAfnAXE0P7YIUIUfk8ZxCOQZeanS7x5Nk5Mine2mcwSKAKyn0-SweiLFQNoBlKDO3VpqPVDEmGS_iPZMhDb0w" alt="" width="400"></center>
 
 Оптимальная стратегия, на мой взгляд, следующая:
 
@@ -251,9 +251,11 @@ http://conversionscientist.com/web-site-optimization/12-rules-maximizing-convers
 
 ### Плюсы и минусы внешних оптимизаторов
 
-Я расскажу только про те системы, с которыми я достаточно долго работал (и работаю по сей день). ![technology_item_01.png](https://lh5.googleusercontent.com/HUe2gksQve3zxf0IvD-hxYAuDoaQLuOkrlkj1Ij3TZ07cMoiVkHiU9g8gu1pOQ2WBaIzxpFV9uW6qZ_qYJcxYGZXozy-RlxJHA-yfymK6mHSZuClUChYlUOXbxPH2drXNw)
+Я расскажу только про те системы, с которыми я достаточно долго работал (и работаю по сей день).
 
 ### 1. Adobe AdLens** - Решение от кампании Adobe.
+
+<img src="https://lh5.googleusercontent.com/HUe2gksQve3zxf0IvD-hxYAuDoaQLuOkrlkj1Ij3TZ07cMoiVkHiU9g8gu1pOQ2WBaIzxpFV9uW6qZ_qYJcxYGZXozy-RlxJHA-yfymK6mHSZuClUChYlUOXbxPH2drXNw" alt="" width="100" align="left">
 
 Суть работы - управление ставками на основе “[портфельной теории](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%9C%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B8%D1%86%D0%B0)”.
 
@@ -313,7 +315,7 @@ http://www.icontext.ru/adobe_adlens/
 
 ### 2. Marin Software - лидер на рынке внешних оптимизаторов (по обороту).
 
-![marin-software.jpg](https://lh4.googleusercontent.com/kJ4U3haiSS5obDXwkjWPjv4nFfegNkch8_n0N4Ij9WCGYY-nx_WXSXidW0n2HAq8xl3WJI9hy9Gj55JiDVDdSVZn57NOjc-VOn-h21NKkyZGu8b4ALPllbGH7gyINzzZ8g)
+<img src="https://lh4.googleusercontent.com/kJ4U3haiSS5obDXwkjWPjv4nFfegNkch8_n0N4Ij9WCGYY-nx_WXSXidW0n2HAq8xl3WJI9hy9Gj55JiDVDdSVZn57NOjc-VOn-h21NKkyZGu8b4ALPllbGH7gyINzzZ8g" alt="" width="100" align="left">
 
 Суть работы - управление ставками на основе вероятности [Бейса](http://en.wikipedia.org/wiki/Bayesian_probability). Система оценивает ставку для каждого ключевого слова, опираясь на исторические данные (прошлую статистику) по данному слову и всей папки (некий аналог портфолио). Если статистики по ключевому слову недостаточно, то система ищет в папке соответствия по другим уровням данным и объединяет их между собой.
 
@@ -379,7 +381,7 @@ http://www.icontext.ru/adobe_adlens/
 
 ### 3. K50 (автоматизатор с российской спецификой)
 
-![logo.png](https://lh3.googleusercontent.com/6wglOI1Wqo2lFpksZODXaMTS4ygaqmigqKCRKR8_4JtLoEByhkXYtrkd1UGWVBuLf2gv7R5DYw4XDNqtWbwnIVVr5dakOfbq7b8mm-hPYkW10ulVfpp_KTdz7IExpjbtzQ)
+<img src="https://lh3.googleusercontent.com/6wglOI1Wqo2lFpksZODXaMTS4ygaqmigqKCRKR8_4JtLoEByhkXYtrkd1UGWVBuLf2gv7R5DYw4XDNqtWbwnIVVr5dakOfbq7b8mm-hPYkW10ulVfpp_KTdz7IExpjbtzQ" alt="" width="100" align="left" Hspace="5" >
 
 Суть работы - максимизирует выбранный показатель (прибыль, оборот, количество заказов) опираясь на математические алгоритмы и статистику разных уровней данных. Например, анализируется рекламная кампания, объявление, ключевое слово, день недели, URL посадочной страницы, поисковые запросы и т.д. В случае, если недостаточно собственной статистики по данному сочетанию факторов, то система заимствует статистику с похожих комбинаций факторов.
 
@@ -441,7 +443,7 @@ http://www.icontext.ru/adobe_adlens/
 
 Каждая из систем настраивается индивидуально. Поэтому тут общую инструкцию предложить сложно. Важные моменты:
 
-![b6744a73988811a4b35f96d27c9df63a.jpg](https://lh4.googleusercontent.com/z-QDvG9gxPfLut2qitAv8gDasglsucB47ndUnRlRIJfm2HcNRHQOtzyY8Ur_6BzgMPvZ7ksirbQB7kn-u6wZgsKyAvUbSITTj27F3isK7_UrSo-PfVAweXtKZmvAu-nahA)
+<center><img src="https://lh4.googleusercontent.com/z-QDvG9gxPfLut2qitAv8gDasglsucB47ndUnRlRIJfm2HcNRHQOtzyY8Ur_6BzgMPvZ7ksirbQB7kn-u6wZgsKyAvUbSITTj27F3isK7_UrSo-PfVAweXtKZmvAu-nahA" alt="" width="400" Hspace="5" Vspace="5"></center>
 
 - должно быть много данных для стабильной работы (более 500 конверсий в месяц на папку). Не забывайте, что в отличии от внутренних оптимизаторов, вы можете просто объединить кампании в папку (Marin и AdLens), чтобы получить нужное количество конверсий. Причем, сама структура кампаний у вас не изменится (в AdWords или другой системе)
 
@@ -451,7 +453,8 @@ http://www.icontext.ru/adobe_adlens/
 
 ### Кейс: Одновременное тестирование внешних оптимизаторов и оптимизатора в Директе
 
-![morfeus_59335933_orig_.jpeg](https://lh5.googleusercontent.com/IX0LWlLnE7vWZHFtH1CjC8sKE33U5pZ-x6Zr6HBcFJldjdgm_Bm40v1Buze4SMmX1bL19QLIIxKi_gg1YwUkVy_KBS7OSH1bnfPYMWDxC2nYn0yVQ59Qj_8ruju0nrGdug)
+<center><img src="https://lh5.googleusercontent.com/IX0LWlLnE7vWZHFtH1CjC8sKE33U5pZ-x6Zr6HBcFJldjdgm_Bm40v1Buze4SMmX1bL19QLIIxKi_gg1YwUkVy_KBS7OSH1bnfPYMWDxC2nYn0yVQ59Qj_8ruju0nrGdug" alt="" width="400" Hspace="5" Vspace="5"></center>
+
 
 Теперь осталось выяснить, какая же из систем лучше работает. Для этого нужно провести релевантный тест. Запустить поочередно один инструмент за другим не самая лучшая идея, т.к. статистика получится нерепрезентативной.
 
@@ -480,7 +483,7 @@ http://www.icontext.ru/adobe_adlens/
 
 **Вывод**
 
-![a86e1d454bea218d0361f16dced3f6bd.jpg](https://lh5.googleusercontent.com/LzdChQJBQAOwki6mnPU1kR3nQssHV46coKvON7F_huqCdDPqIXI-FcaB_6FqAYeIpsFsbw6ydcEYeZ6HeIcmPxhAXvmU_LhHgeaqp7kIeIY3pzxoiBxnp5etW0qDKIU1zQ)
+<center><img src="https://lh5.googleusercontent.com/LzdChQJBQAOwki6mnPU1kR3nQssHV46coKvON7F_huqCdDPqIXI-FcaB_6FqAYeIpsFsbw6ydcEYeZ6HeIcmPxhAXvmU_LhHgeaqp7kIeIY3pzxoiBxnp5etW0qDKIU1zQ" alt="" width="400" Hspace="5" Vspace="5"></center>
 
 Это значит, что внутренние стратегии лучше? Нет, на мой взгляд это значит, что настройка внешних систем была выполнена не самым должным образом. Были не учтены некоторые нюансы работы с ними. Иными словами, затратили минимум усилий на настройку и подключение оптимизаторов. Выставили одинаковые стратегии и получили такой результат.
 
