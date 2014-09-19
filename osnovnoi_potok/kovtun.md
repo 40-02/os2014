@@ -767,3 +767,4 @@
 
 ###### Автор: Владимир Ковтун, Эксперт по K50, [K50](http://k50.ru) #####
 ###### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/566050153506743/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/)
+![Лого организаторов](http://dl.getdropbox.com/u/390630/for-book.png)

@@ -527,3 +527,4 @@ CallTouch сервис постоянно мониторит данное зна
 Данный кейс был выполнен и представлен партнером CallTouch - агентством ArrowMedia.
 
 ###### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/566053453506413/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/)
+![Лого организаторов](http://dl.getdropbox.com/u/390630/for-book.png)

@@ -147,3 +147,4 @@
 **Реклама должна быть эффективной!**
 
 ###### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/566040990174326/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/)
+![Лого организаторов](http://dl.getdropbox.com/u/390630/for-book.png)
