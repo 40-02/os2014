@@ -1,9 +1,11 @@
 # “Веб-аналитика для клиентов, или Откуда у аналитиков зарплата”
 
-##### Автор: Олег Рудаков,Руководитель аналитического отдела, ADLABS #####
+##### Автор: Олег Рудаков, Руководитель аналитического отдела, ADLABS
 ##### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/571200742991684/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/)
 
-![](https://lh6.googleusercontent.com/xd9caRwpj4p8oGFK_nPRr77rWwc1sfPyaBV0BYeRYIlLD_7Br_ZXioE9G98IFYTkKAOBJH1MuClGhzbEVSrOwwuilsYDlntxnpW-r-wbBB3p0XTl0YpCP9edN5CKOqn06Q)
+
+<center><img src="https://lh6.googleusercontent.com/xd9caRwpj4p8oGFK_nPRr77rWwc1sfPyaBV0BYeRYIlLD_7Br_ZXioE9G98IFYTkKAOBJH1MuClGhzbEVSrOwwuilsYDlntxnpW-r-wbBB3p0XTl0YpCP9edN5CKOqn06Q" alt="Work for food" width="400"></center>
+
 
 Веб-аналитика является одним из наиболее молодых и динамично развивающихся направлений интернет-маркетинга. При этом зачастую веб-аналитика недооценивается как услуга или же считается неким дополнением к рекламным размещениям, а не самостоятельным продуктом. Соответственно, и рынок веб-аналитики в Рунете еще только формируется и подстраивается под рекламный, что, по моему мнению, не всегда верно.
 Данная ситуация возникает ввиду рассмотренных далее причин.
@@ -22,7 +24,7 @@
 
 #### Настройка Google Analytics и Яндекс.Метрики
 
-![настройка 3.jpg](https://lh4.googleusercontent.com/L4IW8TBB1s-c6Xk-VY1sY-eQlCOqFV2VP70yYog-MPn5bGJOMbgQEYgv1td9AUFoiaMOT9yoDwWzdMh6xzX2nS9-GgXYF6SB5upK-vXU1volmT22GME5MvRW7p4D-knskg)
+<center><img src="https://lh4.googleusercontent.com/L4IW8TBB1s-c6Xk-VY1sY-eQlCOqFV2VP70yYog-MPn5bGJOMbgQEYgv1td9AUFoiaMOT9yoDwWzdMh6xzX2nS9-GgXYF6SB5upK-vXU1volmT22GME5MvRW7p4D-knskg" alt="" width="400"></center>
 
 Давайте рассмотрим основные этапы работ для ситуации, в которой коды данных систем или не установлены на сайте клиента, или же установлен только основной код отслеживания на всех страницах, при этом не отслеживаются цели, нет кодов электронной торговли, а также не проведено никаких настроек в интерфейсах систем. То есть системы либо не установлены, либо считают только посещения и показатели отказов.
 
@@ -67,7 +69,7 @@
 
 Другой распространенной аналитической услугой является анализ эффективности рекламных кампаний. То есть это - следующий шаг после настройки систем веб-аналитики, поскольку анализировать данные можно только в том случае, если они собраны корректно и в достаточном объеме.
 
-![постклик - шеф, все пропало1.jpg](https://lh3.googleusercontent.com/u9WCp7nUO8IL-HM9l01EJJS7uEO5T5HYKjvTzNZVYds1ZBKui7ZT5cnaCZJm_tHLe416GGEmJQVM3aCPyX8vp21SioeHFzHbR2HGlE7zXb56_SJ_pqKEvgkr_Fv7uLRrjA)
+<center><img src="https://lh3.googleusercontent.com/u9WCp7nUO8IL-HM9l01EJJS7uEO5T5HYKjvTzNZVYds1ZBKui7ZT5cnaCZJm_tHLe416GGEmJQVM3aCPyX8vp21SioeHFzHbR2HGlE7zXb56_SJ_pqKEvgkr_Fv7uLRrjA" alt="" width="400"></center>
 
 Также стоит отметить, что KPI не может быть одним показателем и не может быть - десятью. В таких крайних случаях невозможен корректный анализ данных.
 
@@ -101,7 +103,7 @@
 
 
 ### Юзабилити-анализ сайта
-![юзабилити 2.jpg](https://lh6.googleusercontent.com/AuIFdKSohbJayq6SIaIM5Z5wKKRHWnZgTLT01WkEWY-uDNmXsyzslIMfvSulR8hKtEO_sis8PmE21KlotB8q6kTa2qJzq6D5pF3FUeziR5T5DJcLIGF_txOV0PFy2aWP6w)
+<center><img src="https://lh6.googleusercontent.com/AuIFdKSohbJayq6SIaIM5Z5wKKRHWnZgTLT01WkEWY-uDNmXsyzslIMfvSulR8hKtEO_sis8PmE21KlotB8q6kTa2qJzq6D5pF3FUeziR5T5DJcLIGF_txOV0PFy2aWP6w" alt="" width="400"></center>
 
 Несомненно, работа по повышению трафика необходима и приносит результат. Однако не стоит забывать о том, что на неудобном или плохо работающем сайте не будет конверсий.
 
@@ -150,7 +152,7 @@
 
 
 ### Повышение конверсии
-![повышение конверсии 2.jpg](https://lh5.googleusercontent.com/O90zc67oByZAwMaO8l9RsogaUzcdBv3vW0o-K_TJi5ixDLbF8_U-tibk2lBNUdxzqnn36t3AxGG7hKjY0d7HCeGJZFXj5dw4sAD6hNv0EA1_5RQkIJGyjDVHtj0R0NMUvA)
+<center><img src="https://lh5.googleusercontent.com/O90zc67oByZAwMaO8l9RsogaUzcdBv3vW0o-K_TJi5ixDLbF8_U-tibk2lBNUdxzqnn36t3AxGG7hKjY0d7HCeGJZFXj5dw4sAD6hNv0EA1_5RQkIJGyjDVHtj0R0NMUvA" alt="" width="400"></center>
 
 Одна из вариаций того, к чему мы надеемся в итоге прийти в плане понимания рынком смысла веб-аналитики.
 
@@ -192,7 +194,7 @@
 
 
 ### Обучение Google Analytics и Яндекс.Метрике
-![обучение по аналитике 1.jpg](https://lh5.googleusercontent.com/0_zDANbP6rWOzBOLlNsHYFJTfmNzrIJNYpQPVlZxAEiMkD47T6IzCSjUrzRF3mnBMXwIJVr-eIMPw529T938mmBZJOcbmQJl-5TJOrWGJNM1d4F1v757kZMzaD_V35TzxQ)
+<center><img src="https://lh5.googleusercontent.com/0_zDANbP6rWOzBOLlNsHYFJTfmNzrIJNYpQPVlZxAEiMkD47T6IzCSjUrzRF3mnBMXwIJVr-eIMPw529T938mmBZJOcbmQJl-5TJOrWGJNM1d4F1v757kZMzaD_V35TzxQ" alt="" width="400"></center>
 
 Многие клиенты понимают необходимость использования систем веб-аналитики, при этом зачастую штатные сотрудники нуждаются в повышении компетенции в данном вопросе.
 
@@ -241,7 +243,7 @@
 
 ### Консалтинг
 
-![консалтинг 2.jpg](https://lh4.googleusercontent.com/jW7EN1rhikl3d0PRJDO3oKNW7JRfS5JpMyuUkI0KsvQUwPkGvGxkrl2XzGLcGxObXSrsZSc-hia8kWY1K4JilYnlKwpFjbLjffbZqbIX0FPwuOeL6pcvC-JWwMGIaPVyKA)
+<center><img src="https://lh4.googleusercontent.com/jW7EN1rhikl3d0PRJDO3oKNW7JRfS5JpMyuUkI0KsvQUwPkGvGxkrl2XzGLcGxObXSrsZSc-hia8kWY1K4JilYnlKwpFjbLjffbZqbIX0FPwuOeL6pcvC-JWwMGIaPVyKA" alt="" width="400"></center>
 
 Последней из рассматриваемых услуг будет консалтинг. Последней в данном листинге, но не последнейим по важности. Консалтинг - это одна из услуг, к которой мы надеемся прийти в будущем, оглядываясь на опыт Ззапада. В настоящее время - это наименее развитая услуга в Рунете. Возможно, из-за недоверия к аналитикам и их способностям. Или, скорее, из-за некой эфемерности услуги консалтинга. В то время как, например, постклик- отчет можно распечатать и потрогать, ощутив таким образом итог работы несколько более отчётливо. Консалтинг мы видим ответами на поставленные вопросы, - соответственно, и стоимость формируется как время, необходимое на ответы или решение проблем, помноженное на стоимость часа работы специалиста. Подробнее что-то расписать сложно, ибо все зависит от конкретной ситуации и конкретного клиента.
 
@@ -260,7 +262,7 @@
 
 ## Типы клиентов, их аналитические потребности и нюансы взаимодействия.
 
-![нюянсы 5.jpg](https://lh6.googleusercontent.com/FxLg1swF1yQU0YUCiqSIJFoPqCy5p-P-BqevWAXcR-J78T7pXEonbEIZjTjM-I-99_z02b-H5Q3ci13uv5Qilx-VnnVATpF5FaDTNacB7dabSInfjH5LTKiNt0_3JGPsHw)
+<center><img src="https://lh6.googleusercontent.com/FxLg1swF1yQU0YUCiqSIJFoPqCy5p-P-BqevWAXcR-J78T7pXEonbEIZjTjM-I-99_z02b-H5Q3ci13uv5Qilx-VnnVATpF5FaDTNacB7dabSInfjH5LTKiNt0_3JGPsHw" alt="" width="400"></center>
 
 В данном разделе поговорим о работе с разными типами клиентов и поделимся опытом оказания услуг по веб-аналитике. Надеюсь, что наш опыт поможет коллегам, которые только приходят к мысли о выделении веб-аналитики в отдельное направление.
 
@@ -272,7 +274,7 @@
 #### Крупные клиенты
 
 
-![клиент богатый.jpg](https://lh6.googleusercontent.com/DefggJWdmS7kZ-yx1WPWOVdybKcF4ApptkpcW4tf04RbtIG0y24XV6IRKcAbmfH3ndKhMMq_dtQGVYWfIV0c4hOEOZkzcB0o5O2pG2sVtLohgDinut3pUgl4GeXjGN52Iw)
+<center><img src="https://lh6.googleusercontent.com/DefggJWdmS7kZ-yx1WPWOVdybKcF4ApptkpcW4tf04RbtIG0y24XV6IRKcAbmfH3ndKhMMq_dtQGVYWfIV0c4hOEOZkzcB0o5O2pG2sVtLohgDinut3pUgl4GeXjGN52Iw" alt="" width="400"></center>
 
 Особенности работы с крупными клиентами начинают проявлять себя еще до старта работ на этапе согласований. Это выражается, в основном, в сложности согласования документов на услуги, плюс необходимо подписание NDA. Также, зачастую, у крупных клиентов возможна только одна форма оплаты за аналитические услуги - постоплата.  Повлиять на это никак невозможно, однако, можно ускорить согласования на своей стороне, а также рассчитывать ход выполнения работ с учетом отложенной подготовки документов. Также стоит отметить, что коммуникация с таким типом клиентов зачастую происходит не только онлайн, но и оффлайн. Это вполне логично, поскольку стоимость работ, а также упущенная выгода от некорректной работы для таких клиентов высока. Однако это скорее плюс, поскольку есть возможность понять, с кем будет происходить работа, познакомиться лично с контактным лицом, а также выяснить необходимые вопросы очень быстро.
 
@@ -310,7 +312,7 @@
 
 ### Средние клиенты
 
-![IMG_01082014_155121.png](https://lh4.googleusercontent.com/HyWutf-y7FvuKFULZK5n1IrXbEwChf-jXpDvOa01GC7EwY2QlRcKDcTYP8hbVVAQ3YlVw1tpL-mB96RBHIGbUvU7KdrPHRmHB_cTFsWLdGKKWY0Z6TPP2S3uhLJExcy1-g)
+<center><img src="https://lh4.googleusercontent.com/HyWutf-y7FvuKFULZK5n1IrXbEwChf-jXpDvOa01GC7EwY2QlRcKDcTYP8hbVVAQ3YlVw1tpL-mB96RBHIGbUvU7KdrPHRmHB_cTFsWLdGKKWY0Z6TPP2S3uhLJExcy1-g" alt="" width="400"></center>
 
 Если крупные клиенты - это известные компании, то средние - это меньшие бизнесы и отсутствие громкого имени. Каких-то интересных деталей по взаимодействию с клиентами данного типа нет, поскольку клиенты такого типа очень разносторонни. Различается и внутренний штат, и сайты, и бизнес. Однако всегда стоит помнить о том, что компетенция сотрудников со стороны клиента может значительно различаться, что непосредственно повлияет на дальнейшую работу и затраченное на выполнение задачи время. Также стоит отметить, что данные клиенты понимают основные возможности систем веб-аналитики и принимают решения, которые им предоставляют.
 
@@ -354,7 +356,7 @@
 
 ### Небольшие клиенты
 
-![клиент нищеброд.jpg](https://lh4.googleusercontent.com/KCCwFlmpRmma8JZ46TT6SDi5ZMDb4p9q95Cq84cjdZBBaTGYcELn162ddIktYVVGuYZjVEuyfUEfBy-XlRykIyuAFOsQlYzXhLTvkDfHbuhkJXEa0qMUV4aYOsqW_-qvjg)
+<center><img src="https://lh4.googleusercontent.com/KCCwFlmpRmma8JZ46TT6SDi5ZMDb4p9q95Cq84cjdZBBaTGYcELn162ddIktYVVGuYZjVEuyfUEfBy-XlRykIyuAFOsQlYzXhLTvkDfHbuhkJXEa0qMUV4aYOsqW_-qvjg" alt="" width="400"></center>
 
 Пул задач от такого типа клиентов довольно ограничен ввиду их размера и возможностей.
 
@@ -392,7 +394,7 @@
 
 Давайте не будем замыкаться на сообществе продвинутых аналитиков и обсуждать «Как пропатчить KDE2 под FreeBSD». Нужно развивать не только себя, обмениваться опытом, обучаться и обучать клиентов. – э Это и приведет к формированию рынка веб-аналитики в том виде, который будет полезен и агентствам и клиентам.
 
-![консалтинг 3.jpg](https://lh3.googleusercontent.com/q_Z4Ro5ItvxeP4M8_EQHKeMU79LUffBWmXPmEuGF2m1eNilbMQ2xxUL_eVYQnBMdpDFotGE1uvB4oHuNsMDA6hGdbHaIk19FKU0X2mL8zJIfjR_tf4f9XU2meBjewpu5RA)
+<center><img src="https://lh3.googleusercontent.com/q_Z4Ro5ItvxeP4M8_EQHKeMU79LUffBWmXPmEuGF2m1eNilbMQ2xxUL_eVYQnBMdpDFotGE1uvB4oHuNsMDA6hGdbHaIk19FKU0X2mL8zJIfjR_tf4f9XU2meBjewpu5RA" alt="" width="400"></center>
 
 
 ##### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/571200742991684/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/)
