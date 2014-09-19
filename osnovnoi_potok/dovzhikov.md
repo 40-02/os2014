@@ -85,27 +85,7 @@
 </td><td>0,096
 
 </td></tr></tbody></table>
-
-  
-
-<table><tbody><tr><td>  
-</td><td>  
-</td><td>  
-</td><td>  
-</td><td>  
-</td></tr><tr><td>  
-</td><td>  
-</td><td>  
-</td><td>  
-</td><td>  
-</td></tr><tr><td>  
-</td><td>  
-</td><td>  
-</td><td>  
-</td><td>  
-</td></tr></tbody></table>
-
-  
+ 
 СП – показы в спецразмещение
 
 Г – показы в гарантии
