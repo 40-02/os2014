@@ -37,14 +37,14 @@
 1. Выгружаем отчеты по этим ссылкам при помощи менеджера закачек. Важно, что менеджер закачек должен уметь поддерживать возможность авторизации на сайте (я использую дополнение Chrono для браузера Chrome).
 
 1. В результате получаем множество xls-файлов. Имя каждого файла – это ID кампании.
-![](https://lh5.googleusercontent.com/d32Pm1tkYIttBg8Gtoyv66JdtqSb1XdjmnPpCzkDvRoJ2Rmi3mL0buEuy1WKEGgc1VpmhjDS_xU3YaXXnmokLS1S9dfBVOfOebjPfFEGYRvwATB04fNuf5rxtB2Wg_SUEw)
+<center>![](https://lh5.googleusercontent.com/d32Pm1tkYIttBg8Gtoyv66JdtqSb1XdjmnPpCzkDvRoJ2Rmi3mL0buEuy1WKEGgc1VpmhjDS_xU3YaXXnmokLS1S9dfBVOfOebjPfFEGYRvwATB04fNuf5rxtB2Wg_SUEw)</center>
 1. Теперь все это нужно объединить в один файл Excel. Для этого я использую надстройку под названием PLEX ([http://www.planetaexcel.ru/plex/](http://www.planetaexcel.ru/plex/)). Первым шагом собираем все в один файл при помощи функции “Сборка листов”.
 
 
 
-![](https://lh5.googleusercontent.com/fNgTgHWcMI2ZbT617dej9o1Sm-omZSExc1lIVLnEfKFH5OMCdILjkUtJqhmVUwjcDgD7tOdEUYmcKy0SgpE-Mx2bZuS5fRUQBbgWzvvcXRA4cHNsVuDAJHD1YZD2EIjshA)
+<center>![](https://lh5.googleusercontent.com/fNgTgHWcMI2ZbT617dej9o1Sm-omZSExc1lIVLnEfKFH5OMCdILjkUtJqhmVUwjcDgD7tOdEUYmcKy0SgpE-Mx2bZuS5fRUQBbgWzvvcXRA4cHNsVuDAJHD1YZD2EIjshA)</center>
 
-Содержимое каждого файла оказывается на отдельном листе. При помощи функции “Собрать” переносим все на один лист.![](https://lh3.googleusercontent.com/C4r6T31aPf01grRoKS41Xy7URLz-VUEqAXhj-opA8rE_W58ZEkb5SIzCVb0FALlAZJSo0MrGzgwE5tXkie_GDizijkR4Udd33vK0hA0a4rZDpUoAZDaaBU3_m7_W3QVoqQ)
+Содержимое каждого файла оказывается на отдельном листе. При помощи функции “Собрать” переносим все на один лист.<center>![](https://lh3.googleusercontent.com/C4r6T31aPf01grRoKS41Xy7URLz-VUEqAXhj-opA8rE_W58ZEkb5SIzCVb0FALlAZJSo0MrGzgwE5tXkie_GDizijkR4Udd33vK0hA0a4rZDpUoAZDaaBU3_m7_W3QVoqQ)</center>
 
 
 Данные есть, можем начинать анализировать. Для этих задач я использую сводные таблицы Excel.
@@ -52,7 +52,7 @@
 
 #### Кейс 1. Анализ рекламных блоков
 
-![](https://lh4.googleusercontent.com/y01nOSTFIkCnVnSeVYQgv059iEUYLui9AdcWNNtR9K-oKYqEa91k_IMrFw5U9xchL1yG0_4WHWnr4uoUCnslcF1TWDkzuh7TDiR5QdWSzxCgkw0e4rdYV-_kpaKlqk4q-g)
+<center>![](https://lh4.googleusercontent.com/y01nOSTFIkCnVnSeVYQgv059iEUYLui9AdcWNNtR9K-oKYqEa91k_IMrFw5U9xchL1yG0_4WHWnr4uoUCnslcF1TWDkzuh7TDiR5QdWSzxCgkw0e4rdYV-_kpaKlqk4q-g)</center>
 
 При помощи полученной статистики мы можем сравнить CTR разных блоков (спецразмещение и гарантия + динамика) по всем кампаниям. CTR стоит  смотреть отдельно по каждому блоку, так как они очень сильно различаются. Можно анализировать эти данные как на уровне кампаний, так и на уровне ключевых фраз.
 
@@ -62,7 +62,7 @@
 
 #### Кейс 2. Анализ площадок в РСЯ
 
-![](https://lh4.googleusercontent.com/w466DsIwN6F8VFGFhmffkuQG5aTrbJIaKXUzIV7CNer5NO1INVhMvgmYcV7HS3tqTuo-f7fZjY_3HCnp_sZMpQpQ6pqdIIZ-eNvc14OI3J8D6d4Of0sINBf7GrcHjjMYrA)
+<center>![](https://lh4.googleusercontent.com/w466DsIwN6F8VFGFhmffkuQG5aTrbJIaKXUzIV7CNer5NO1INVhMvgmYcV7HS3tqTuo-f7fZjY_3HCnp_sZMpQpQ6pqdIIZ-eNvc14OI3J8D6d4Of0sINBf7GrcHjjMYrA)</center>
 
 Построив сводную таблицу по площадкам и рассчитав нужные значения, можно выделить неэффективные площадки, по которым достаточно много кликов, но плохая конверсия в действия и достаточно высокий CPA. Такие площадки имеет смысл сразу занести в список запрещенных и не рекламироваться на них в дальнейшем.
 
@@ -70,7 +70,7 @@
 
 #### Кейс 3. Анализ изображений
 
-![](https://lh5.googleusercontent.com/obu5OY3KQE1hf2XecqOdPdEGOO0TJVPwNEv3rn2XS0lr1EnWqIOm3sSINvln-mGQ60XkL-l4-b3lv0hM_OQePVRjJKXWtT2J6PICCznp30gT1ws2tZ6nKMFSuG1F7Ppv6Q)
+<center>![](https://lh5.googleusercontent.com/obu5OY3KQE1hf2XecqOdPdEGOO0TJVPwNEv3rn2XS0lr1EnWqIOm3sSINvln-mGQ60XkL-l4-b3lv0hM_OQePVRjJKXWtT2J6PICCznp30gT1ws2tZ6nKMFSuG1F7Ppv6Q)</center>
 
 Строим сводную таблицу по 2 типам показов рекламных объявлений: с изображением и без изображения. Дополнил таблицу графиками, для лучшей визуализации.
 
@@ -81,7 +81,7 @@
 
 Общую эффективность сравнили, эффективность использования изображений доказали, теперь проанализируем более детально самые популярные изображения.
 
-![](https://lh6.googleusercontent.com/SP8zab8pr6FXwOJkc--OxVPZHG2wxKApClugkDbHAbe2nHOAgKrZEJ2WAWVDBV4Nv4hxfift9ydgWOZyUqHNEZeAwLXrdTTCCJxnrP9V0eH91Ic_wXwsaT6cWXIYhwLH1w)
+<center>![](https://lh6.googleusercontent.com/SP8zab8pr6FXwOJkc--OxVPZHG2wxKApClugkDbHAbe2nHOAgKrZEJ2WAWVDBV4Nv4hxfift9ydgWOZyUqHNEZeAwLXrdTTCCJxnrP9V0eH91Ic_wXwsaT6cWXIYhwLH1w)</center>
 
 Для этого снова используем сводные таблицы Excel, но уже по конкретным изображениям. Чтобы загрузить изображения в Excel, удобно использовать надстройку PastePictures [http://excelvba.ru/programmes/PastePictures](http://excelvba.ru/programmes/PastePictures)).
 
@@ -98,7 +98,7 @@
 
 Для выгрузки статистики из Google Analytics предпочитаю использовать надстройку для Excel под названием NEXT Analytics ([http://www.nextanalytics.com/](http://www.nextanalytics.com/)). Данный инструмент не имеет ограничений на количество выгружаемых строк (например, выгрузить 200 тыс. строк для него не проблема), умеет обходить семплирование.
 
-![](https://lh5.googleusercontent.com/U64dUwTixszFS964MdXzh6DQ2FTMzrgVClGkcewJrYeTbWDqKgYisF9CQrPxHObylbRR1UVOk3ZfeYFgzt_QRtW95djWnuS_THsAXZL_o18ZXXKmlNubszLBqr5D7TfoYw)
+<center>![](https://lh5.googleusercontent.com/U64dUwTixszFS964MdXzh6DQ2FTMzrgVClGkcewJrYeTbWDqKgYisF9CQrPxHObylbRR1UVOk3ZfeYFgzt_QRtW95djWnuS_THsAXZL_o18ZXXKmlNubszLBqr5D7TfoYw)</center>
 
 Процесс семплирования  подразумевает анализ определенной выборки данных вместо всего объема для экономии аппаратных ресурсов серверов Google Analytics.
 
@@ -113,18 +113,18 @@
 
 Процесс выгрузки данных средстами NEXT Analytics for Excel.
 
-![](https://lh5.googleusercontent.com/Z46JMNjZChHRK6DG7KSS1OJbyvzjOUKIp3ZdNuw9A8UZSHWJa8bUWwq3Daw3PZZTs3uzE5oBo6B3T52jF3Q6VLps8JM1D486Ftkd-d8y0xzozJtIY8FZFyv_knduntYJBQ)
+<center>![](https://lh5.googleusercontent.com/Z46JMNjZChHRK6DG7KSS1OJbyvzjOUKIp3ZdNuw9A8UZSHWJa8bUWwq3Daw3PZZTs3uzE5oBo6B3T52jF3Q6VLps8JM1D486Ftkd-d8y0xzozJtIY8FZFyv_knduntYJBQ)</center>
 
 Полученные из Google Analytics данные объединяем с нашей статистикой из Яндекс Директ. Теперь можем рассчитать ROI.
 
-![](https://lh4.googleusercontent.com/RE4OO2sg8NzOM2TZfSa1uYausleOyM-AaOMDbW4uuof2UKp3NMaP2C_zNo6AZKK2N9Qa7fLnoGz_4QTh_PVo70uUfKrWJSYJO8GL53RHs7coCB8125ixX3bt9_bn10939Q)
+<center>![](https://lh4.googleusercontent.com/RE4OO2sg8NzOM2TZfSa1uYausleOyM-AaOMDbW4uuof2UKp3NMaP2C_zNo6AZKK2N9Qa7fLnoGz_4QTh_PVo70uUfKrWJSYJO8GL53RHs7coCB8125ixX3bt9_bn10939Q)</center>
 
 
 #### Кейс 4. Анализ ROI и оптимизация ставок
 
 Создаем сводную таблицу по кампаниям, рассчитываем различные параметры, такие как CPO, ROI, CR.
 
-![](https://lh3.googleusercontent.com/9awAvX1pBfPe2GYkinNHBUyP42jDJyMdebRU02x7vxU8e2XR6ypmalxJ_TU9bwsIMIwxhHVRWxlEfC9cdGu6yT1QedUPe7kHzxxlEBGB8dz70OmNV2eYDcmFLqkgptuOFA)
+<center>![](https://lh3.googleusercontent.com/9awAvX1pBfPe2GYkinNHBUyP42jDJyMdebRU02x7vxU8e2XR6ypmalxJ_TU9bwsIMIwxhHVRWxlEfC9cdGu6yT1QedUPe7kHzxxlEBGB8dz70OmNV2eYDcmFLqkgptuOFA)</center>
 
 
 1. Из формулы расчета ROI можно вывести формулу для расчета оптимальной ставки (CPC) для требуемого ROI. Она имеет следующий вид: CPC = Доход / (ROI + 1) * Клики.
@@ -140,7 +140,7 @@
 
 
 
-![](https://lh4.googleusercontent.com/0UrIBx4Teb3FSESMVsf_LGLF832CoIRCT_r4vmLO8Kcz-5K-wyfidwJxuvhdBmLyK_K40vQ8H7POcy58abb5dYm22ffcnkWXmAZBJBA0NP1b2wQ8-A_RQdTBzWzhnposuA)
+<center>![](https://lh4.googleusercontent.com/0UrIBx4Teb3FSESMVsf_LGLF832CoIRCT_r4vmLO8Kcz-5K-wyfidwJxuvhdBmLyK_K40vQ8H7POcy58abb5dYm22ffcnkWXmAZBJBA0NP1b2wQ8-A_RQdTBzWzhnposuA)</center>
 
 
 

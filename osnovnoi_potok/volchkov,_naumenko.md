@@ -52,7 +52,7 @@
 
 * Распределение заказов/дохода по количеству ключевых слов;
 
-- 	Распределение CRR (CIR) по высокочастотным, среднечастотным, низкочастотным запросам;
+-   Распределение CRR (CIR) по высокочастотным, среднечастотным, низкочастотным запросам;
 
 
 * Распределение количества ключевых слов по типу соответствия;
@@ -81,7 +81,7 @@
 
 Ниже приведем пример, как можно проверить корректность распределения трафика между типами соответствия:
 
-![](https://lh3.googleusercontent.com/Tawy09A64A5vJDEcEbjAWPd4qhUiuVrJXjYVp9WUBb1hIXkJh93KPXqQj1musvGjqPNknqhP8KJAo_fd08M3LkKx0IUgu6xUbxyXKtC-jWeocZg9Sk9lrR2PDANntq4Erh8Lu-Wmk8s)
+<center>![](https://lh3.googleusercontent.com/Tawy09A64A5vJDEcEbjAWPd4qhUiuVrJXjYVp9WUBb1hIXkJh93KPXqQj1musvGjqPNknqhP8KJAo_fd08M3LkKx0IUgu6xUbxyXKtC-jWeocZg9Sk9lrR2PDANntq4Erh8Lu-Wmk8s)</center>
 
 Высокий процент показа объявлений по точному и фразовому типу соответствия свидетельствует о:
 
@@ -100,7 +100,7 @@
 
 Данный вид анализа возможно применять при регулярной работе с размещением, для проверки достаточности структуры и распределении трафика. На диаграмме, представленной ниже, видно, что сегменты кампаний 2 и 3 имеют достаточно хорошее распределение показов 70% к 30%, а сегмент 1, можно дополнительно проверить. Сравнивать можно либо со средним распределением по кампаниям, либо по рыночным показателям.
 
-![](https://lh4.googleusercontent.com/OLHQT6QV-ssA7AwFyNR6i2W62dS_uoetqX7Ni_2fADJLfZVjEN79zHJxuu8eNLcVlA4ha2c9pIkNjYxdFQbNCH_-DDF3dzaLcoufM3SzaE477B1Qfa8Hczfye9E0EIK_hrQym86Jfio)
+<center>![](https://lh4.googleusercontent.com/OLHQT6QV-ssA7AwFyNR6i2W62dS_uoetqX7Ni_2fADJLfZVjEN79zHJxuu8eNLcVlA4ha2c9pIkNjYxdFQbNCH_-DDF3dzaLcoufM3SzaE477B1Qfa8Hczfye9E0EIK_hrQym86Jfio)</center>
 
 При корректной структуре с каждого уровня агрегации данных можно получить всю необходимую информацию. В случае стандартной структуры контекстного размещения мы имеем три уровня:
 
@@ -125,7 +125,7 @@
 
 Так как все же оценить, достаточно ли данных для анализа или нет на самом дискретном уровне?
 
-![](https://lh3.googleusercontent.com/yxsXORk5eGnL2ktdBx9V7ulz_t9w4I08Sn6zu7NASgS21ge6Y7aYt0Z_pCmW08Bl5D8-RKlFjkeRVFu89aoW8qkTFT52bRqDmS3m8nhLrb2svM6qyWktqGhKeuxzm82t9QheCJJY0Vg)
+<center>![](https://lh3.googleusercontent.com/yxsXORk5eGnL2ktdBx9V7ulz_t9w4I08Sn6zu7NASgS21ge6Y7aYt0Z_pCmW08Bl5D8-RKlFjkeRVFu89aoW8qkTFT52bRqDmS3m8nhLrb2svM6qyWktqGhKeuxzm82t9QheCJJY0Vg)</center>
 
 Например, можно использовать следующий подход:
 
@@ -142,12 +142,12 @@
 Более подробно данный процесс отображен на диаграмме процессов:
 
 
-![](https://lh5.googleusercontent.com/ogKbasPCkLIerjXsNOsJIDUT-vEpe2on6NQdpPdkDudcvrYKnRdDutLcTkgi1jGcx5g1_6YPUzZX52sDmUWKzN62ErHBOaowb8g38DhGKr7cr8Skh3SHE1tXEMO62Xws8I_5yrX6z8M)
+<center>![](https://lh5.googleusercontent.com/ogKbasPCkLIerjXsNOsJIDUT-vEpe2on6NQdpPdkDudcvrYKnRdDutLcTkgi1jGcx5g1_6YPUzZX52sDmUWKzN62ErHBOaowb8g38DhGKr7cr8Skh3SHE1tXEMO62Xws8I_5yrX6z8M)</center>
 
 
  Каждый уровень агрегации данных просматривается последовательно, в случае, если данных достаточно на самом дискретном уровне, процесс просмотра останавливается и данные передаются в блок анализа, а затем в оптимизацию. Если же данных недостаточно, то используется более высокий уровень, с большей степенью агрегации. При рассмотрении ситуации с наличием данных на различных уровнях и оценкой размещения, приходится проводить анализ данных об эффективности на уровне ключевых слов, групп объявлений, кампаний, кластеров групп объявлений. Результатом данного анализа является цепочка оценок каждого элемента, например, последовательность:
 
-![](https://lh4.googleusercontent.com/czytr7LJ1XzqDRTP5bTNCf7oFiYIb4fUzaRZI0OUAYbUM5o1b7rU4sZg5SRwmnf6VXk6fcjALKYTHkH-XcKkYA64TyOYoNRbSIneN2niVj8v53VA4ZQA4VKN7_595bt-fiaC5MOh9Pc)
+<center>![](https://lh4.googleusercontent.com/czytr7LJ1XzqDRTP5bTNCf7oFiYIb4fUzaRZI0OUAYbUM5o1b7rU4sZg5SRwmnf6VXk6fcjALKYTHkH-XcKkYA64TyOYoNRbSIneN2niVj8v53VA4ZQA4VKN7_595bt-fiaC5MOh9Pc)</center>
 
 No data – No data – Great – Great – позволяет понять, что данное ключевое слово работает эффективно и/или имеет потенциал. Как рекомендуемое действие может быть представлен следующий вариант: повысить ставку, если средняя позиция выше 1.4, и попробовать собрать дополнительный трафик. На следующем раунде анализа проверить изменение эффективности.
 
@@ -156,7 +156,7 @@ No data – No data – Great – Great – позволяет понять, ч�
 
 Другой возможный подход к анализу текущих размещений, это создание универсальной оценочной метрики, которая бы отвечала бизнес-целям кампании, поскольку цели могут быть комплексными, т.е. учитывать не одну метрику, а несколько различных показателей.
 
-![](https://lh3.googleusercontent.com/4Tu5f-masKI7WRvPZGT8iZG7pHj8xhE1L_hlrRh2ZFSmSo1dQqPAXR72cKTcsIRMqh-EBWBDIA-7Mppr0Ne7kXr8aaZ6Pwr1Y8XvCOlk3bejm7IMnJB1QOKpiQ0VMvtxl2tOtpu4z5w)
+<center>![](https://lh3.googleusercontent.com/4Tu5f-masKI7WRvPZGT8iZG7pHj8xhE1L_hlrRh2ZFSmSo1dQqPAXR72cKTcsIRMqh-EBWBDIA-7Mppr0Ne7kXr8aaZ6Pwr1Y8XvCOlk3bejm7IMnJB1QOKpiQ0VMvtxl2tOtpu4z5w)</center>
 
 
 Данная оценка проводится на уровне кампаний. Для её создания необходимо пройти следующие шаги:
@@ -177,7 +177,7 @@ No data – No data – Great – Great – позволяет понять, ч�
 
 На основе нормированной оценки происходит расчет показателя качества размещения:
 
-![](https://lh5.googleusercontent.com/iNB7NxaYkz5EGK5RuVH0r76IpDNlwAanjRbzSV2ivSDAiv-e8vCALSp5xWCmIMF-SS1MR47_BO1VSm8yI6-uqgpkErM_Ew1d7BLGhwya6UHwYKa0IaVjB2cAFq7rhqVvJB04lwuJ2Yo)
+<center>![](https://lh5.googleusercontent.com/iNB7NxaYkz5EGK5RuVH0r76IpDNlwAanjRbzSV2ivSDAiv-e8vCALSp5xWCmIMF-SS1MR47_BO1VSm8yI6-uqgpkErM_Ew1d7BLGhwya6UHwYKa0IaVjB2cAFq7rhqVvJB04lwuJ2Yo)</center>
 
 
 Для реализации данного подхода требуется применить комплексные методы расчетов и специальные функции. Как же обработать большой объем данных и произвести множество вычислений?
@@ -193,7 +193,7 @@ No data – No data – Great – Great – позволяет понять, ч�
 
 
 
-![](https://lh5.googleusercontent.com/6FART8XMj7ILIF8wJHEtrfejH3b1_4uTxWy5_ppYtR-KNvGMpUFRlAJWQvRuR468r1ZHp1rXzcQZvjHgJWK2jT8GrSwPyd63SOZQpm8SUOeabsawvQMpPQyIKnas2hC1bLkz4SbZtUI)
+<center>![](https://lh5.googleusercontent.com/6FART8XMj7ILIF8wJHEtrfejH3b1_4uTxWy5_ppYtR-KNvGMpUFRlAJWQvRuR468r1ZHp1rXzcQZvjHgJWK2jT8GrSwPyd63SOZQpm8SUOeabsawvQMpPQyIKnas2hC1bLkz4SbZtUI)</center>
 
 
 
@@ -202,7 +202,7 @@ No data – No data – Great – Great – позволяет понять, ч�
 Подводя итог, рассмотрим инструментарий, необходимый для эффективной работы и анализа контекстного размещения:
 
 
-![](https://lh6.googleusercontent.com/JiqzlLkNm0ZD4JRTfldQi_57MWKPpXJsQHaNSQ_KMMenWnSKQST-sOl3JKdtvWvQk7Q-QKs3xUNWSiRFqSRzwof3L3Vb9_cvRVdZF6crJ7UGQX9Z-LVfJDmLsuhC_lm54zyDiVBLM7Q)
+<center>![](https://lh6.googleusercontent.com/JiqzlLkNm0ZD4JRTfldQi_57MWKPpXJsQHaNSQ_KMMenWnSKQST-sOl3JKdtvWvQk7Q-QKs3xUNWSiRFqSRzwof3L3Vb9_cvRVdZF6crJ7UGQX9Z-LVfJDmLsuhC_lm54zyDiVBLM7Q)</center>
 
 
 Базу инструментов составляют четыре элемента:

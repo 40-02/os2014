@@ -402,13 +402,13 @@
 
 По ключевому запросу выдается список ссылок, которые сгруппированы в зависимости от типа контента. Реклама расположена непосредственно в выдаче.
 
-![](https://lh3.googleusercontent.com/aMJiVNGoPw89FU6aRYz7sDJ70PIRiIrynGUagXnK0btUn0p0ZvVPG-xojkr3yRSf8bU1JlCPBsjRYLRwC4GOJgw5e5iuje9JY_1cD5lD7iWAjYp4_W2qmsfwSIJCbyVgBQ)
+<center>![](https://lh3.googleusercontent.com/aMJiVNGoPw89FU6aRYz7sDJ70PIRiIrynGUagXnK0btUn0p0ZvVPG-xojkr3yRSf8bU1JlCPBsjRYLRwC4GOJgw5e5iuje9JY_1cD5lD7iWAjYp4_W2qmsfwSIJCbyVgBQ)</center>
 
 К сожалению интерфейс рекламодателя доступен только на корейском языке.
 
-![](https://lh6.googleusercontent.com/qWKYNUgOFnJY6Qad6RjFU8KZDZ7QrZlW1UyGDE9fKf4Zz1Pjo8m1K4xf-DxyIBgq-hQC6mpYdbo1EWa1nJiv-u8KvjOLPkBhxi-pqCph7omX1LDxjM5v5xpOtDqMxUOvMg)
+<center>![](https://lh6.googleusercontent.com/qWKYNUgOFnJY6Qad6RjFU8KZDZ7QrZlW1UyGDE9fKf4Zz1Pjo8m1K4xf-DxyIBgq-hQC6mpYdbo1EWa1nJiv-u8KvjOLPkBhxi-pqCph7omX1LDxjM5v5xpOtDqMxUOvMg)</center>
 
-![](https://lh4.googleusercontent.com/FAE1Ul3iY0VRo4IE9V2yF9VtCn6tCSGUt-l1h3gPvlFyt-83LQouYjWluSZ2HA9iNkmxD2OHR7rsD1AJnZY0X4Le0f9132BTXNKTUWUH2a6mskB-yA-VE8PRzJz_MYLwHQ)
+<center>![](https://lh4.googleusercontent.com/FAE1Ul3iY0VRo4IE9V2yF9VtCn6tCSGUt-l1h3gPvlFyt-83LQouYjWluSZ2HA9iNkmxD2OHR7rsD1AJnZY0X4Le0f9132BTXNKTUWUH2a6mskB-yA-VE8PRzJz_MYLwHQ)</center>
 
 #### Seznam.cz, Чехия
 
@@ -430,7 +430,7 @@
 
 Вот краткая схема процедур:
 
-![](https://lh6.googleusercontent.com/tFP7bGRfZV2KE9S4i-coijsZIN02kAMEwGHBsjIZ2YMgVYxZxShGBpi638NBOHxzqj6VN4-zfED-1MqheiUh4hzrNVp6MRyMJfYS0AiiW41sflngD9_JgTQizd5BTGMnFg)
+<center>![](https://lh6.googleusercontent.com/tFP7bGRfZV2KE9S4i-coijsZIN02kAMEwGHBsjIZ2YMgVYxZxShGBpi638NBOHxzqj6VN4-zfED-1MqheiUh4hzrNVp6MRyMJfYS0AiiW41sflngD9_JgTQizd5BTGMnFg)</center>
 
 
 ### Альтернативные подходы
