@@ -187,7 +187,7 @@
 
 Если бизнес-процессы в агентстве описаны, обычно они выглядят следующим образом (рис. 1):
 
-<center>![](https://gm1.ggpht.com/--GAft9-2i8pw4EFMmkp6S0_AYRnb6aSRxNwubgGHX_cyjRQvjxyq_VEt4j8XZzrMVX3MFl2EjY3wH2LcPteJ4BYBB07MACzPuoYAtJV_XWlXZGXIsiXPV078q-CLS1rb9smRGOfrXg9sC4P089dPaOtAfCVqs7hfwL5QBEx1vJiW8G8XSF6Mgrj0-8SMJLBDdqO1WfhIhInTsayzAhJu4duvqCqPUqTM6Mz9GSHd-wDFfo8IsxEcCtzz_7ZE6ayc17nifzQZn4tSu6e7OvfFHcK62e4FecHCMskdisEH5v6H1GrSQSS8lvfoOTWSmCukt3cCJ07zKNC4qyiKY10MfcQaYbV2ZA3Y5GCJJjd62pJBw-OOmIixUct4HN383EvI-1ha7RM_LhNNXQ-66L1iolXnDlS-UambrJBEAcGRKyJKmic7dUsV85W4jpnA24Enfo9T7Rhq9yvCKxDIygvMZN21rpcOZgTd9mmoykv_WYjFG-FlF8RWAdd6MztjBqYasxPWRjIn9GDk91oC7C1VFO6vbXyZYJ2TOG5h5dHkdJJxu8sRIIDbP88ZK6ksMpbqSMUgyK0Kz8=w1236-h1226-l75-ft)</center>
+<center>![](http://dl.getdropbox.com/u/390630/скрин%20для%20макса.jpg)</center>
 
 <center>Рисунок 1: Привычное описание процессов в контекстном агентстве</center>
 
