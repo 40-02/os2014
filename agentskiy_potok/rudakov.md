@@ -1,7 +1,7 @@
 # “Веб-аналитика для клиентов, или Откуда у аналитиков зарплата”
 
 ##### Автор: Олег Рудаков, Руководитель аналитического отдела, ADLABS
-##### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/571200742991684/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/a2-14)
+##### [Обсуждение](http://on.fb.me/1raBERs) / [презентация](http://slidesha.re/1raBI3B)
 
 
 <center><img src="https://lh6.googleusercontent.com/xd9caRwpj4p8oGFK_nPRr77rWwc1sfPyaBV0BYeRYIlLD_7Br_ZXioE9G98IFYTkKAOBJH1MuClGhzbEVSrOwwuilsYDlntxnpW-r-wbBB3p0XTl0YpCP9edN5CKOqn06Q" alt="Work for food" width="400"></center>
@@ -397,5 +397,5 @@
 <center><img src="https://lh3.googleusercontent.com/q_Z4Ro5ItvxeP4M8_EQHKeMU79LUffBWmXPmEuGF2m1eNilbMQ2xxUL_eVYQnBMdpDFotGE1uvB4oHuNsMDA6hGdbHaIk19FKU0X2mL8zJIfjR_tf4f9XU2meBjewpu5RA" alt="" width="400"></center>
 
 
-##### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/571200742991684/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/a2-14)
+##### [Обсуждение](http://on.fb.me/1raBERs) / [презентация](http://slidesha.re/1raBI3B)
 ![Лого организаторов](http://dl.getdropbox.com/u/390630/for-book.png)

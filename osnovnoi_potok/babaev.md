@@ -1,7 +1,7 @@
 # Международная контекстная реклама
 
 ###### Автор: Анар Бабаев, интернет-предприниматель, Appintop.com и Setup.ru
-###### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/566070476838044/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/m14-chkd)
+###### [Обсуждение](http://on.fb.me/1raBSrA) / [презентация](http://slidesha.re/1raBSId)
 
 *Disclaimer: материал основан на личном опыте автора и не является истиной в последней инстанции. У читателя наверняка найдутся идеи и способы решения обозначенной проблемы другим способом.*
 
@@ -493,5 +493,5 @@
 [https://support.google.com/adwordspolicy/topic/1308252?hl=ru&ref_topic=2585946](https://support.google.com/adwordspolicy/topic/1308252?hl=ru&ref_topic=2585946)
 
 
-###### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/566070476838044/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/m14-chkd)
+###### [Обсуждение](http://on.fb.me/1raBSrA) / [презентация](http://slidesha.re/1raBSId)
 ![Лого организаторов](http://dl.getdropbox.com/u/390630/for-book.png)

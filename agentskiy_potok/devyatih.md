@@ -1,7 +1,7 @@
 # Трудозатраты. Как считать и как снижать?
 
 ##### Автор: Денис Девятых, Руководитель проекта Origami #####
-##### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/566016166843475/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/16-origami)
+##### [Обсуждение](http://on.fb.me/1Dp4tA4) / [презентация](http://slidesha.re/1raB4D9)
 
 
 ### Введение
@@ -109,5 +109,5 @@
 
 
 
-##### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/566016166843475/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/16-origami)
+##### [Обсуждение](http://on.fb.me/1Dp4tA4) / [презентация](http://slidesha.re/1raB4D9)
 ![Лого организаторов](http://dl.getdropbox.com/u/390630/for-book.png)
