@@ -1,7 +1,7 @@
 # Алгоритмы и закономерности аукционов систем контекстной рекламы
 
 ###### Автор: Владимир Ковтун, Эксперт по K50, [K50](http://k50.ru) #####
-###### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/566050153506743/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/)
+###### [Обсуждение](http://on.fb.me/1raC6zc) / [презентация](http://slidesha.re/1pnbpmC)
 
 
 В данной статье рассмотрены основные алгоритмы системы Яндекс.Директ. В процессе расмотрения было выявлены закономерности, связанные с ценообразованием на поиске. Также были выявлены некоторые факторы, влияющие на прогнозное значение CTR рекламодателя.
@@ -742,5 +742,5 @@
 ![](https://lh3.googleusercontent.com/DQWGpZcHvJYC2vcevJGEHphINg-G5JOkXplW_5TmXxmcvsdIfoVfstql3jewmOJu5OyyGxkobGPtmLLMw1xIt1-ZucGtWTS1xuncgznR3NpqZiJCrjwb6S_LhYjZOlMc0w)
 
 ###### Автор: Владимир Ковтун, Эксперт по K50, [K50](http://k50.ru) #####
-###### [Обсуждение](https://www.facebook.com/semconf/photos/a.562342090544216.1073741828.276595422452219/566050153506743/?type=1) / [презентация](http://www.slideshare.net/Osennya_sessia/)
+###### [Обсуждение](http://on.fb.me/1raC6zc) / [презентация](http://slidesha.re/1pnbpmC)
 ![Лого организаторов](http://dl.getdropbox.com/u/390630/for-book.png)
