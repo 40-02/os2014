@@ -2,6 +2,8 @@
 
 #О сборнике статей
 
+### Данный сборник доступен в [pdf](https://www.gitbook.io/download/pdf/book/40-02/os2014?lang=),[mobi](https://www.gitbook.io/download/mobi/book/40-02/os2014?lang=), [epub](https://www.gitbook.io/download/epub/book/40-02/os2014?lang=).
+
 В данном сборнике собраны статьи докладчиков конференции ["Осенняя Сессия по контекстной рекламе 2014"](http://sem-in-russia.ru), которая прошла 12 сентября 2014 года.
 
 В конференции приняли участие 270 гостей, было организовано три блока:
