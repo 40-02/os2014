@@ -21,4 +21,6 @@
 * [Денис Девятых](agentskiy_potok/devyatih.md)
 * [Сергей Назаров](agentskiy_potok/nazarov.md)
 * [Анна Зимина](agentskiy_potok/zimina.md)
+* [bloody-money](bloody-money.md)
+   * [К50::Генератор](k50generator.md)
 
