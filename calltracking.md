@@ -58,6 +58,8 @@
 
 - e-commerce с высоким средним чеком.
 
+P.S. Для внимательных читателей книги мы подготовили подарок - скидку 50% на 1 месяц по промокоду "Осенняя сессия".
+
 _Текст: Михаил Федоринин, коммерческий директор CallTouch_
 
 <p align="right">[Оригинал на sostav.ru](http://www.sostav.ru/publication/nestabilnaya-ekonomika-privedet-k-rostu-koltrekinga-vtroe-11420.html)</p>
