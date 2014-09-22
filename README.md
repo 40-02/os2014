@@ -24,4 +24,7 @@
 
 Обо всех найденных ошибках просьба сообщать по почте info@sem-in-russia.ru.
 
+### Скачать данный сборник можно в [pdf](https://www.gitbook.io/download/pdf/book/40-02/os2014?lang=),[mobi](https://www.gitbook.io/download/mobi/book/40-02/os2014?lang=), [epub](https://www.gitbook.io/download/epub/book/40-02/os2014?lang=).
+
+
 ![Лого организаторов](http://dl.getdropbox.com/u/390630/for-book.png)
