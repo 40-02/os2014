@@ -8,7 +8,7 @@
 * [Максим Лепихов](osnovnoi_potok/lepihov.md)
 * [Антон Данилов](osnovnoi_potok/danilov.md)
 * [Полина Старкова](osnovnoi_potok/starkova.md)
-* [Алексей Иванов](osnovnoi_potok/ivanov.md)
+* [Андрей Иванов](osnovnoi_potok/ivanov.md)
 * [Александр Налётов, Нигяр Зейналова](osnovnoi_potok/naletov_zeinalova.md)
 * [Алексей Довжиков](osnovnoi_potok/dovzhikov.md)
 * [Владимир Ковтун](osnovnoi_potok/kovtun.md)
