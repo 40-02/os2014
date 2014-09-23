@@ -58,7 +58,7 @@
 
 Для каждого слова яндекс вычисляет показатель кликабельности на основе исторических данных рекламодателя. Формула показателя кликабельности (он же CTR) не должна вызывать удивления:
 
-![](https://lh3.googleusercontent.com/xS5Aoq4aVnQwNulhGmEtFMELL53_5szA3Z_xfuv6bUxAMZ6_roo3vqgeDxJCS5KaybFeDxDV4XeDIx1M4BASFRILUS8Nh_j3wLgPbZ2TZaV_obkYwars2DsySrWFJKtu6g) 
+![](https://lh3.googleusercontent.com/xS5Aoq4aVnQwNulhGmEtFMELL53_5szA3Z_xfuv6bUxAMZ6_roo3vqgeDxJCS5KaybFeDxDV4XeDIx1M4BASFRILUS8Nh_j3wLgPbZ2TZaV_obkYwars2DsySrWFJKtu6g)
 
 Она представляет собой отношение числа кликов по ключевому слову, к числу показов по данному ключевому слову.
 
