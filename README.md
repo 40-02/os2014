@@ -1,5 +1,5 @@
 ![](http://dl.getdropbox.com/u/390630/bookcover_v11_FIN.jpg)
-
+<meta name="google-site-verification" content="JojxzlFd6vvAg1dFu1Ti892YRHDrWaymv-dQPfkJ80M" />
 #О сборнике статей
 
 ### Данный сборник доступен в [pdf](https://www.gitbook.io/download/pdf/book/40-02/os2014?lang=), [mobi](https://www.gitbook.io/download/mobi/book/40-02/os2014?lang=), [epub](https://www.gitbook.io/download/epub/book/40-02/os2014?lang=).
