@@ -1,4 +1,4 @@
-![](http://dl.getdropbox.com/u/390630/bookcover_v11_FIN.jpg)
+![](http://dl.getdropbox.com/u/390630/bookcover_v11_FIN_5.jpg)
 <meta name="google-site-verification" content="JojxzlFd6vvAg1dFu1Ti892YRHDrWaymv-dQPfkJ80M" />
 #О сборнике статей
 
