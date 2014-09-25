@@ -23,7 +23,7 @@
    * [Денис Девятых](agentskiy_potok/devyatih.md)
    * [Сергей Назаров](agentskiy_potok/nazarov.md)
    * [Анна Зимина](agentskiy_potok/zimina.md)
-* [bloody-money](bloody-money.md)
+* [Деньги побеждают зло!](bloody-money.md)
    * [К50::Генератор](partners/k50generator.md)
    * [CallTouch = Call Tracking](partners/calltracking.md)
    * [Unibrains, Kokoc Group](partners/kokoc_group.md)
