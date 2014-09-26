@@ -28,7 +28,7 @@
    * [CallTouch = Call Tracking](partners/calltracking.md)
    * [Unibrains, Kokoc Group](partners/kokoc_group.md)
    * [Elama](partners/elama.md)
-   * [Cubeline agency](partners/cubeline.md)
+   * [CubeLine Agency](partners/cubeline.md)
 * [Послесловие](posleslovie.md)
 * [Marketing-wiki.ru](marketing-wikiru.md)
 * [Рекомендуем](rekomenduem.md)
