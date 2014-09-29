@@ -1,7 +1,8 @@
 # Learning-marketing. DIY!
 
 ##### Автор: Анна Зимина, Executive Director, Click.ru
-##### [Обсуждение](http://on.fb.me/1raBNUY) / [презентация](http://slidesha.re/1raBObv)
+##### [Обсуждение](http://on.fb.me/1raBNUY) / [презентация](http://slidesha.re/1raBObv) / [видео](http://youtu.be/DAy_JBz9l7g)
+
 
 ### О чем этот рассказ?
 
