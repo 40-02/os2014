@@ -4,7 +4,7 @@
 ###### Авторы:
 ###### Пичурин Александр, SEO специалист,
 ###### Егоров Александр, специалист по контекстной рекламе, Price.ru
-###### [Обсуждение](http://on.fb.me/1raHySq) / [презентация](http://slidesha.re/1raHz8U)
+###### [Обсуждение](http://on.fb.me/1raHySq) / [презентация](http://slidesha.re/1raHz8U) / [видео](http://youtu.be/-0FHUWpkWcE)
 
 
 
