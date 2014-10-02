@@ -2,5 +2,5 @@
 ### Marketing Engineering  ###
 
 
-![](http://ftp.k50.ru/Foto/a4vert.jpg)
+![](http://www.cubeline.ru/assets/uploads/images/a4vert.jpg)
 
