@@ -2,5 +2,16 @@
     "plugins": [
         "yametrika"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "yametrika": {
+            "plugins": [
+                "yametrika"
+            ],
+            "pluginsConfig": {
+                "yametrika": {
+                    "number": "30054434"
+                }
+            }
+        }
+    }
 }
