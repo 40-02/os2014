@@ -3,7 +3,8 @@
     "plugins": [
         "ga",
         "yametrika",
-        "anchors"
+        "anchors",
+        "youtube"
     ],
     "pluginsConfig": {
         "ga": {
