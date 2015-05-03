@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "yametrika",
-        "toc"
+        "yametrika"
     ],
     "pluginsConfig": {
         "yametrika": {
