@@ -2,7 +2,6 @@
     "plugins": [
         "yametrika",
         "ga",
-        "share",
         "toc"
     ],
     "pluginsConfig": {
