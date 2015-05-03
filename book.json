@@ -1,8 +1,7 @@
 {
     "version": "2.0.x",
     "plugins": [
-        "autocover",
-        "yametrika"
+        "autocover"
     ],
     "pluginsConfig": {}
 }
