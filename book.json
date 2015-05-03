@@ -1,8 +1,11 @@
 {
     "version": "2.0.x",
     "plugins": [
-        "autocover",
         "ga"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-23921240-3"
+        }
+    }
 }
