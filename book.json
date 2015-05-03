@@ -7,6 +7,9 @@
     "pluginsConfig": {
         "ga": {
             "token": "UA-23921240-3"
+        },
+        "yametrika": {
+            "number": 30054434
         }
     }
 }
