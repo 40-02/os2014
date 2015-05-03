@@ -1,7 +1,8 @@
 {
     "plugins": [
         "yametrika",
-        "ga"
+        "ga",
+        "share"
     ],
     "pluginsConfig": {
         "yametrika": {
