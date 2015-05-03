@@ -1,7 +1,8 @@
 {
     "version": "2.0.x",
     "plugins": [
-        "ga"
+        "ga",
+        "yametrika"
     ],
     "pluginsConfig": {
         "ga": {
