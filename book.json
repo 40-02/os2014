@@ -1,25 +1,11 @@
 {
     "version": "2.0.x",
     "plugins": [
-        "ga",
-        "yametrika"
+        "ga"
     ],
     "pluginsConfig": {
         "ga": {
             "token": "UA-23921240-3"
-        },
-        "yametrika": {
-            "plugins": [
-                "yametrika"
-            ],
-            "pluginsConfig": {
-                "yametrika": {
-                    "number": "30054434"
-                }
-            },
-            "yametrika": {
-                "number": "30054434"
-            }
         }
     }
 }
