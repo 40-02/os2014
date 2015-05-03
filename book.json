@@ -1,17 +1,3 @@
 {
-    "plugins": [
-        "yametrika"
-    ],
-    "pluginsConfig": {
-        "yametrika": {
-            "plugins": [
-                "yametrika"
-            ],
-            "pluginsConfig": {
-                "yametrika": {
-                    "number": "30054434"
-                }
-            }
-        }
-    }
+    "version": "2.0.x"
 }
