@@ -1,8 +1,7 @@
 {
     "plugins": [
         "yametrika",
-        "ga",
-        "toc"
+        "ga"
     ],
     "pluginsConfig": {
         "yametrika": {
