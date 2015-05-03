@@ -13,6 +13,16 @@
                     "number": "30054434"
                 }
             }
+        },
+        "ga": {
+            "plugins": [
+                "ga"
+            ],
+            "pluginsConfig": {
+                "ga": {
+                    "token": "UA-23921240-3"
+                }
+            }
         }
     }
 }
