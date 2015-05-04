@@ -4,6 +4,8 @@
 ##### [Обсуждение](http://on.fb.me/1raByJy) / [презентация](http://slidesha.re/1raBzgy) / [видео](http://youtu.be/6oCxBYHQBjM)
 
 
+{% youtube %}http://youtu.be/6oCxBYHQBjM{% endyoutube %}
+
 >*Вот, смотри, смотри. Брат-то у тебя в Москве.*
 
 >*По телевизору показывают. А ты тут водку жрешь сидишь, сволочь.*

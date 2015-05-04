@@ -3,6 +3,7 @@
 ##### Автор: Анна Зимина, Executive Director, Click.ru
 ##### [Обсуждение](http://on.fb.me/1raBNUY) / [презентация](http://slidesha.re/1raBObv) / [видео](http://youtu.be/DAy_JBz9l7g)
 
+{% youtube %}http://youtu.be/DAy_JBz9l7g{% endyoutube %}
 
 ### О чем этот рассказ?
 

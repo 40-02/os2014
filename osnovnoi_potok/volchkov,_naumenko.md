@@ -7,6 +7,7 @@
 ##### Елена Науменко, Старший менеджер по контекстной рекламе, Lamoda
 ##### [Обсуждение](http://on.fb.me/1raHJ0g) / [Презентация](http://slidesha.re/1raHJx4) / [видео](http://youtu.be/9aCVig5J-Yw)
 
+{% youtube %}http://youtu.be/9aCVig5J-Yw{% endyoutube %}
 
 ### Больше данных, больше возможностей
 
