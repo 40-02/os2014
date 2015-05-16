@@ -147,7 +147,7 @@
 
 Таблица 2. Стоимость ключевых слов в спецразмещении и гарантированных показах
 
-<center>![](https://lh3.googleusercontent.com/PcH57qZKEMUrnBGeLYpxk8GQ1LwpqJs_3bkP5noKtRkgDnQ4-kKhu_-8sHZo4M5okigOYeybesy1NSqP9Z-w5Y_zEm_0L9LDzHALuhv9AvTfZ_2-iDaNIAZA-iItToLFkA)</center>
+![](https://lh3.googleusercontent.com/PcH57qZKEMUrnBGeLYpxk8GQ1LwpqJs_3bkP5noKtRkgDnQ4-kKhu_-8sHZo4M5okigOYeybesy1NSqP9Z-w5Y_zEm_0L9LDzHALuhv9AvTfZ_2-iDaNIAZA-iItToLFkA)
 
 <center>Рис. 1. Соотношение размеров ставок и CTR для первой и третьей позиции гарантии и спецразмещения по нормированной шкале</center>
 
@@ -182,7 +182,7 @@
 
 Итак, рассмотрим первый пример. Возьмем аукцион, в котором участвуют четыре рекламодателя. Все они работают по стратегии «Наивысшая доступная позиция». Допустим, что показатели и другие условия одинаковы у всех рекламодателей, различаются только размеры ставок и вероятность клика в блоке спецразмещения:
 
-<center>![](https://lh6.googleusercontent.com/rgNu8HRFED1Urqngutqds3vQXDLaATdAYZLbF4_gkLQBAcmxNe-MqNBLb2U1QB2klHaR8e3zwXLX_JlEaY8S9tCHDhLzuZ5cYH7Ib98CmIXNdpJI2B6wvjigIigQHDBZDQ)</center>
+![](https://lh6.googleusercontent.com/rgNu8HRFED1Urqngutqds3vQXDLaATdAYZLbF4_gkLQBAcmxNe-MqNBLb2U1QB2klHaR8e3zwXLX_JlEaY8S9tCHDhLzuZ5cYH7Ib98CmIXNdpJI2B6wvjigIigQHDBZDQ)
 
 <center>Рис. 3 Пример 1. Ставка и вероятность клика</center>
 
