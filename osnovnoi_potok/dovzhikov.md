@@ -3,6 +3,7 @@
 ###### Автор: Алексей Довжиков, Генеральный директор, Директор по развитию, eLama.ru, TRINET
 ###### [Обсуждение](http://on.fb.me/1Dp5msm) / [презентация](http://slidesha.re/1raC3mR) / [видео](http://youtu.be/ZtoJGy9llU0)
 
+{% youtube %}http://youtu.be/ZtoJGy9llU0{% endyoutube %}
 
 Одним из ключевых моментов ведения контекстной кампании является управление ставками. Как занять нужную позицию и при этом не переплатить?
 
@@ -146,14 +147,14 @@
 
 Таблица 2. Стоимость ключевых слов в спецразмещении и гарантированных показах
 
-<center>![](https://lh3.googleusercontent.com/PcH57qZKEMUrnBGeLYpxk8GQ1LwpqJs_3bkP5noKtRkgDnQ4-kKhu_-8sHZo4M5okigOYeybesy1NSqP9Z-w5Y_zEm_0L9LDzHALuhv9AvTfZ_2-iDaNIAZA-iItToLFkA)</center>
+![](https://lh3.googleusercontent.com/PcH57qZKEMUrnBGeLYpxk8GQ1LwpqJs_3bkP5noKtRkgDnQ4-kKhu_-8sHZo4M5okigOYeybesy1NSqP9Z-w5Y_zEm_0L9LDzHALuhv9AvTfZ_2-iDaNIAZA-iItToLFkA)</center>
 
-<center>Рис. 1. Соотношение размеров ставок и CTR для первой и третьей позиции гарантии и спецразмещения по нормированной шкале</center>
+Рис. 1. Соотношение размеров ставок и CTR для первой и третьей позиции гарантии и спецразмещения по нормированной шкале</center>
 
 
-<center>![](https://lh4.googleusercontent.com/_W0KUNPfultNsl4ZJ6vqMRghIPmK9YCjxgRNwA8oINNcVGBF32Q3S9ay2UT9Y2qwalIea6M6PpFrpns0QUZl0l-JJsKYeVQjW3fTxM18YVHmdzhtwS-KDDVFxUsv4vxUWQ)</center>
+![](https://lh4.googleusercontent.com/_W0KUNPfultNsl4ZJ6vqMRghIPmK9YCjxgRNwA8oINNcVGBF32Q3S9ay2UT9Y2qwalIea6M6PpFrpns0QUZl0l-JJsKYeVQjW3fTxM18YVHmdzhtwS-KDDVFxUsv4vxUWQ)</center>
 
-<center>Рис. 2 Значения ставки и CTR для третьей и первой позиции спецразмещения</center>
+Рис. 2 Значения ставки и CTR для третьей и первой позиции спецразмещения</center>
 
 На основании анализа этих данных можно сделать вывод, что третья строка спецразмещения является оптимальной также и с точки зрения цены.
 
@@ -181,9 +182,9 @@
 
 Итак, рассмотрим первый пример. Возьмем аукцион, в котором участвуют четыре рекламодателя. Все они работают по стратегии «Наивысшая доступная позиция». Допустим, что показатели и другие условия одинаковы у всех рекламодателей, различаются только размеры ставок и вероятность клика в блоке спецразмещения:
 
-<center>![](https://lh6.googleusercontent.com/rgNu8HRFED1Urqngutqds3vQXDLaATdAYZLbF4_gkLQBAcmxNe-MqNBLb2U1QB2klHaR8e3zwXLX_JlEaY8S9tCHDhLzuZ5cYH7Ib98CmIXNdpJI2B6wvjigIigQHDBZDQ)</center>
+![](https://lh6.googleusercontent.com/rgNu8HRFED1Urqngutqds3vQXDLaATdAYZLbF4_gkLQBAcmxNe-MqNBLb2U1QB2klHaR8e3zwXLX_JlEaY8S9tCHDhLzuZ5cYH7Ib98CmIXNdpJI2B6wvjigIigQHDBZDQ)</center>
 
-<center>Рис. 3 Пример 1. Ставка и вероятность клика</center>
+Рис. 3 Пример 1. Ставка и вероятность клика</center>
 
 Давайте разберемся, кто же из этих четырех рекламодателей попадет в блок спецразмещения. В этом нам поможет соответствующая [выдержка](http://help.yandex.ru/direct/?id=990431#990449) из  «Помощи» Яндекс.Директа:
 
@@ -199,9 +200,9 @@
 
 На основании этих данных мы сможем понять, кто окажется в верхнем блоке спецразмещения:
 
-<center>![](https://lh4.googleusercontent.com/lNZ6jqwWfrLomoRE7VoITR5QwCxzYRhcSOVMJnqgQJbY235mckW_7vEkiNuUmP_YfrKorX_9qtTFb973mhBxrpMD6nSaFMVR98MonrD2eYm-T7Hf0wd7B0uU_5HlpE6WuQ)</center>
+![](https://lh4.googleusercontent.com/lNZ6jqwWfrLomoRE7VoITR5QwCxzYRhcSOVMJnqgQJbY235mckW_7vEkiNuUmP_YfrKorX_9qtTFb973mhBxrpMD6nSaFMVR98MonrD2eYm-T7Hf0wd7B0uU_5HlpE6WuQ)</center>
 
-<center>Рис. 4 Распределение рекламодателей по позициям</center>
+Рис. 4 Распределение рекламодателей по позициям</center>
 
 Система выберет троих рекламодателей с наибольшим произведением ставки на вероятность клика (CTR). В нашем примере это рекламодатели A, B и C. Места внутри блока распределятся между ними в зависимости от размера максимальной ставки, то есть C займет первое место, а B – третье.
 
@@ -221,9 +222,9 @@
 
 Итого получаем следующие параметры стоимости входа в спецразмещение для каждого рекламодателя:
 
-<center>![](https://lh4.googleusercontent.com/IOALHMnWuQ9Q_E7eYW1BkfB1Y4VWh1CMIFBOqOihkmt-_tZ8egT9omxKdyN7riBTVY4NTuC2Q9OkAGgw1mXzbjFm42xSKChdcxi0j3qM_Qh1MT9ygetKSmSn5RL9vfoc4A)</center>
+![](https://lh4.googleusercontent.com/IOALHMnWuQ9Q_E7eYW1BkfB1Y4VWh1CMIFBOqOihkmt-_tZ8egT9omxKdyN7riBTVY4NTuC2Q9OkAGgw1mXzbjFm42xSKChdcxi0j3qM_Qh1MT9ygetKSmSn5RL9vfoc4A)</center>
 
-<center>Рис. 5 Стоимость входа в спецразмещение</center>
+Рис. 5 Стоимость входа в спецразмещение</center>
 
 Исходя из представленных выше расчетов, рекламодатель D  может увеличить максимальную ставку. Даже если это не поможет ему прямо сейчас попасть в спецразмещение, свои плюсы в этом все же будут. Например, рекламодатели, которые уже показываются в блоке, будут вынуждены платить больше и быстрее израсходуют свои бюджеты, а некоторые решат, что фактическая стоимость перехода стала неоправданно высокой. Для них этого будет достаточно, чтобы через какое-то время убрать свою рекламу из верхнего блока. Такая стратегия называется «поджимание»: рекламодатель не занимает позицию в блоке, но заставляет конкурента платить больше.
 
@@ -239,15 +240,15 @@
 
 Итого получаем следующие параметры фактической стоимости перехода для каждого рекламодателя:
 
-<center>![](https://lh4.googleusercontent.com/cukejFyKAp4JtG8gYog6Lo3ZPwimVf-MpdWoAYWcuylfbKVweVYTvVrfnCdUgASn1PQEuPRyDWSb8rWde5fiVaGi9G32lqfBkgxIck3IDhL6hpInJo2xUtj8Tzea2dnROA)</center>
+![](https://lh4.googleusercontent.com/cukejFyKAp4JtG8gYog6Lo3ZPwimVf-MpdWoAYWcuylfbKVweVYTvVrfnCdUgASn1PQEuPRyDWSb8rWde5fiVaGi9G32lqfBkgxIck3IDhL6hpInJo2xUtj8Tzea2dnROA)</center>
 
-<center>Рис. 6. Фактическая цена перехода</center>
+Рис. 6. Фактическая цена перехода</center>
 
 Теперь изменим условия: рекламодатели A и С переходят на стратегию «Показ в блоке по минимальной цене». В таком случае С займет первое место, A  - второе, а рекламодатель B, который остается верен «Наивысшей доступной позиции», будет показываться на третьей строке:
 
-<center>![](https://lh4.googleusercontent.com/APrrNyNjdtQlYRQ5OLgQKcy_HzsHcTsr2qPZMjKzkZBED4UvGvH6IdO-q2Oi6yb4yIc8-q5uG1ziLAKMBefpR22aKmm_I4JSJOFEX8VKRs94zLv-gbBYiTTYcPj4BP_z4Q)</center>
+![](https://lh4.googleusercontent.com/APrrNyNjdtQlYRQ5OLgQKcy_HzsHcTsr2qPZMjKzkZBED4UvGvH6IdO-q2Oi6yb4yIc8-q5uG1ziLAKMBefpR22aKmm_I4JSJOFEX8VKRs94zLv-gbBYiTTYcPj4BP_z4Q)</center>
 
-<center>Рис. 7 Расположение рекламодателей в спецразмещении при переходе А и С на стратегию «Показ в блоке по минимальной цене»</center>
+Рис. 7 Расположение рекламодателей в спецразмещении при переходе А и С на стратегию «Показ в блоке по минимальной цене»</center>
 
 В итоге, как бы странно это ни казалось, в нашем примере на входе в спецразмещение будет показываться рекламодатель, который выбрал стратегию «Наивысшая доступная позиция», а два рекламодателя со стратегией «Показ в блоке по минимальной» цене займут первое и второе место.
 
@@ -257,23 +258,23 @@
 
 Рассмотрим еще один пример. В этот раз все рекламируются по стратегии «Показ в блоке по минимальной цене», а показатели вероятности клика равны. Прочие условия мы так же, как и в первом примере, не учитываем. Различаются только размеры ставок:
 
-<center>![](https://lh3.googleusercontent.com/v1zMFp50TLRsshSEJQIFEc7r9JN1hOvv62yGmGF-6wxxGRSaGoRXrrA5KmAGQnh3X2UQIHEOJKhNqiDO8jaurV_bogbMA5X8I8MDBH3ENO_EdaxH5EFwetbFayNL3AMAxw)</center>
+![](https://lh3.googleusercontent.com/v1zMFp50TLRsshSEJQIFEc7r9JN1hOvv62yGmGF-6wxxGRSaGoRXrrA5KmAGQnh3X2UQIHEOJKhNqiDO8jaurV_bogbMA5X8I8MDBH3ENO_EdaxH5EFwetbFayNL3AMAxw)</center>
 
-<center>Рис. 8. Пример 2. Ставка, вероятность клика и их произведение</center>
+Рис. 8. Пример 2. Ставка, вероятность клика и их произведение</center>
 
 Для попадания в блок система выберет тех, кто назначил максимальные ставки.
 
 На основании этих условий получаем следующие результаты:
 
-<center>![](https://lh4.googleusercontent.com/QvRNRoyBVBdKh5I7QOEznMpXaQduxlqO2YBi94kbBC0wk-n8WlPZQn2wXdAe5z70ffCZaYZsS8LDjyY65ebUhjpTwwEsULkO82ejOJDAa2k-OYvMOldmptfybguZ1ixlMw)</center>
+![](https://lh4.googleusercontent.com/QvRNRoyBVBdKh5I7QOEznMpXaQduxlqO2YBi94kbBC0wk-n8WlPZQn2wXdAe5z70ffCZaYZsS8LDjyY65ebUhjpTwwEsULkO82ejOJDAa2k-OYvMOldmptfybguZ1ixlMw)</center>
 
-<center>Рис. 9. Распределение рекламодателей по позициям</center>
+Рис. 9. Распределение рекламодателей по позициям</center>
 
 Рекламодатель X не попадает в блок. Но ему необходимо оказаться в спецразмещении, и для этого он решает поднять ставку. Он решает поставить 2,01 у.е. и теперь из блока выпадает рекламодатель Y. Теперь, когда Y оказывается у входа в спецразмещение, размер его ставки начинает влиять на то, сколько должны платить рекламодатели внутри блока. Так как его ставка была равна  2 у.е. , цена клика в блоке теперь составляет 2,01 у.е.:
 
-<center>![](https://lh5.googleusercontent.com/1EXtoi0-Q_Dmte9xrN5xcZnOxlowdks1vwiwmZ3IlL-rwQ0IodtILsql6qOyejgyghztyE7zURieu6mxNSnVxCgKzU1V4xJe7thj7ceBgp3U05zVQ83bJf3_bLUhje7I_A)</center>
+![](https://lh5.googleusercontent.com/1EXtoi0-Q_Dmte9xrN5xcZnOxlowdks1vwiwmZ3IlL-rwQ0IodtILsql6qOyejgyghztyE7zURieu6mxNSnVxCgKzU1V4xJe7thj7ceBgp3U05zVQ83bJf3_bLUhje7I_A)</center>
 
-<center>Рис. 10. Расположение рекламодателей в спецразмещении при увеличении ставки Х</center>
+Рис. 10. Расположение рекламодателей в спецразмещении при увеличении ставки Х</center>
 
 Через какое-то время Y снова захочет вернуться в блок. Для этого ему придется назначить ставку больше, чем у рекламодателя X, и он будет вынужден поставить минимум 2,02 у.е.
 
@@ -291,9 +292,9 @@
 #### Экономим бюджет с бид-менеджером
 Давайте вспомним наш последний пример и представим, что произойдет, если Y также будет готов платить 2 у.е., но вместо готовой стратегии воспользуется бид-менеджером.
 
-<center>![](https://lh5.googleusercontent.com/e9098kN3tvWKVcX8CcMT5eIcNqIKv64PBB3NnonQX4bjd1ayLIIU-j-Vx0AK6myMQ12xQM6F1AL94hT-7goAUwkEqJhlTricPOILUks5EY2vU17ClkGIeAarxvKGywbVDQ)</center>
+![](https://lh5.googleusercontent.com/e9098kN3tvWKVcX8CcMT5eIcNqIKv64PBB3NnonQX4bjd1ayLIIU-j-Vx0AK6myMQ12xQM6F1AL94hT-7goAUwkEqJhlTricPOILUks5EY2vU17ClkGIeAarxvKGywbVDQ)</center>
 
-<center>Рис. 11 Использование бид-менеджера  (Для примера eLama.ru)</center>
+Рис. 11 Использование бид-менеджера  (Для примера eLama.ru)</center>
 
 Каждые 10  минут по API Яндекс.Директ бид-менеджер будет проверять, сколько необходимо заплатить для попадания в блок спецразмещения, и задавать ставку на 0,01 у.е. больше.
 Отметим, что интервал обновления ставок у разных бид-менеджеров неодинаков. В данном случае приведен интервал обновления ставок в бид-менеджере от eLama.ru. Интервала обновления ставок в 10 обычно достаточно, т.к. данные о цене клика [обновляются](https://direct.yandex.ru/direct/?id=990422) ([https://direct.yandex.ru/direct/?id=990422](https://direct.yandex.ru/direct/?id=990422)) примерно за такой временной промежуток, а непосредственно обновление ставок занимает в среднем 10 минут.
@@ -310,26 +311,26 @@
 
 В течение дух недель мы каждые 20 минут собирали данные по обновлениям ставок для более чем 50 тыс. ключевых фраз в 13 тематиках. И вот какие данные мы получили:
 
-<center>![](https://lh4.googleusercontent.com/785UJqURvRX0730TAq1VOCNWvWN6Z7kKikDn2AQAS-vdpMu-MdwlWqpSIHFdhHHfC9hO0sRt0n5FQjKb4lK6kydCuB0Lu49ZybIsO2xCDeXqWsBGjrTySzLnXDlcE2_VmA)</center>
+![](https://lh4.googleusercontent.com/785UJqURvRX0730TAq1VOCNWvWN6Z7kKikDn2AQAS-vdpMu-MdwlWqpSIHFdhHHfC9hO0sRt0n5FQjKb4lK6kydCuB0Lu49ZybIsO2xCDeXqWsBGjrTySzLnXDlcE2_VmA)</center>
 
 |- Процент фраз с изменением цены в положительную сторону
 |- Процент фраз с изменением цены в отрицательную сторону
 
-<center>Рис. 12 Процент фраз с изменением цены</center>
+Рис. 12 Процент фраз с изменением цены</center>
 
-<center>![](https://lh3.googleusercontent.com/49aD1b9LwOp6vTIn8ztSqaqvRF2GbSkQNZansVy5GocgJ9K_xr_wjJKjL3DB0UmFaFW8X1USdPhzVWNmOr51q4ruH9bXdHJ-583r7WuH2ciSGNFdQxmiMap1q1JGMRTJ0Q)</center>
+![](https://lh3.googleusercontent.com/49aD1b9LwOp6vTIn8ztSqaqvRF2GbSkQNZansVy5GocgJ9K_xr_wjJKjL3DB0UmFaFW8X1USdPhzVWNmOr51q4ruH9bXdHJ-583r7WuH2ciSGNFdQxmiMap1q1JGMRTJ0Q)</center>
 
 |- Среднее положительное отклонение, у.е.
 |- Среднее отрицательное отклонение, у.е.
 
-<center>Рис. 13 Среднее положительное и среднее отрицательное отклонение в у.е.</center>
+Рис. 13 Среднее положительное и среднее отрицательное отклонение в у.е.</center>
 
-<center>![](https://lh3.googleusercontent.com/sKq6SX-ut3F2bMc4ADhIh2Mv_iqXKz9htJlGEDwkn9LNEjFp48zkSxWhsQ_WuVXnr24KVmkLmU9Ew5I72c728uPsHQ8OUjoNfo_uAOoRZGmPPtxg2CxKHDBqDYjYNmHXQQ)</center>
+![](https://lh3.googleusercontent.com/sKq6SX-ut3F2bMc4ADhIh2Mv_iqXKz9htJlGEDwkn9LNEjFp48zkSxWhsQ_WuVXnr24KVmkLmU9Ew5I72c728uPsHQ8OUjoNfo_uAOoRZGmPPtxg2CxKHDBqDYjYNmHXQQ)</center>
 
 |- Среднее положительное отклонение, %
 |- Среднее отрицательное отклонение, %
 
-<center>Рис. 14 Среднее положительное и среднее отрицательное отклонение в процентах</center>
+Рис. 14 Среднее положительное и среднее отрицательное отклонение в процентах</center>
 
 Эти данные показывают, что в каждой из выбранных тематик каждые 20 мин. значения ставок меняются для 10 - 30% фраз на от -15% до + 25%. А это значит, что корректировать ставки необходимо каждому рекламодателю, и чем чаще, тем лучше.
 
@@ -341,9 +342,9 @@
 
 При стандартных настройках Яндекс.Директ учитывает ставки рекламодателей в неактивных кампаниях.  Если у вас настроен бид-менеджер, вам понадобится подключить параметр «Не учитывать ставки в отключенных рекламных кампаниях». Ставки неактивных кампаний учитываться не будут, а значит, вы сможете избежать бессмысленного разогрева аукциона:
 
-<center>![](https://lh5.googleusercontent.com/a-c0Vs7ua6GNvjp6FoDqp-oKaLm_uP1iJjp4TljCye9emZbF7_Dkw2NyNDmaIndJRP4w2yFLAw5zBEbP8CcjSpzvmuu22eRcouoA2m-teVe6oW6KOxQaGvEOAD1hw89eew)</center>
+![](https://lh5.googleusercontent.com/a-c0Vs7ua6GNvjp6FoDqp-oKaLm_uP1iJjp4TljCye9emZbF7_Dkw2NyNDmaIndJRP4w2yFLAw5zBEbP8CcjSpzvmuu22eRcouoA2m-teVe6oW6KOxQaGvEOAD1hw89eew)</center>
 
-<center>Рис. 15 Настройка функции «Не учитывать автоматически остановленные объявления конкурентов»</center>
+Рис. 15 Настройка функции «Не учитывать автоматически остановленные объявления конкурентов»</center>
 
 Также не стоит забывать, что и у вас, и у ваших конкурентов может измениться CTR, и даже незначительные его колебания могут повлиять на стоимость попадания на нужную позицию. Бид-менеджер позволит сгладить эту ситуацию, сократив время вашего отсутствия в блоке.
 
