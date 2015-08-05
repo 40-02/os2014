@@ -183,7 +183,7 @@
 
 Если бизнес-процессы в агентстве описаны, обычно они выглядят следующим образом (рис. 1):
 
-<center>![](http://dl.getdropbox.com/u/390630/скрин%20для%20макса.jpg)</center>
+![](k2_4.jpg)
 
 <center>Рисунок 1: Привычное описание процессов в контекстном агентстве</center>
 
@@ -210,7 +210,7 @@
 
 Обычно для этого используют Microsoft Word. Задачи пишутся одна за другой. Иногда внутри пунктов выделяются сроки и ответственные (рис. 2).
 
-<center>![](https://www.evernote.com/shard/s9/sh/c0f1b5af-3f69-4827-9c61-897c6048c9da/a72a3c4ea0a247d753649ca163bece66/deep/0/a12.-Анна-Караулова-----Google-Docs.png)</center>
+![](k2_5.png)
 
 <center>Рисунок 2. Описание бизнес-процессов в Microsoft Word</center>
 
@@ -223,7 +223,7 @@
 
 Немногим лучше описание процессов в Microsoft Excel (рис. 3)
 
-<center>![](https://www.evernote.com/shard/s9/sh/aa700451-ac05-4a46-bece-dfaae36828b5/5492903dd4a43869e7fe5a6e70b5f85d/deep/0/a12.-Анна-Караулова-----Google-Docs.png)</center>
+![](k2_6.png)
 
 <center>Рисунок 3. Описание бизнес-процессов в Microsoft Excel</center>
 
