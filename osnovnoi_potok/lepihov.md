@@ -113,21 +113,20 @@
 * Если запрашиваемый отчет подразумевает обработку более 500 000 сессий пользователей.
 
 
-Процесс выгрузки данных средстами NEXT Analytics for Excel.
+Процесс выгрузки данных средствами NEXT Analytics for Excel.
 
-<center>![](https://lh5.googleusercontent.com/Z46JMNjZChHRK6DG7KSS1OJbyvzjOUKIp3ZdNuw9A8UZSHWJa8bUWwq3Daw3PZZTs3uzE5oBo6B3T52jF3Q6VLps8JM1D486Ftkd-d8y0xzozJtIY8FZFyv_knduntYJBQ)</center>
+![](l6_9.png)
 
 Полученные из Google Analytics данные объединяем с нашей статистикой из Яндекс Директ. Теперь можем рассчитать ROI.
 
-<center>![](https://lh4.googleusercontent.com/RE4OO2sg8NzOM2TZfSa1uYausleOyM-AaOMDbW4uuof2UKp3NMaP2C_zNo6AZKK2N9Qa7fLnoGz_4QTh_PVo70uUfKrWJSYJO8GL53RHs7coCB8125ixX3bt9_bn10939Q)</center>
+![](l6_10.png)
 
 
 #### Кейс 4. Анализ ROI и оптимизация ставок
 
 Создаем сводную таблицу по кампаниям, рассчитываем различные параметры, такие как CPO, ROI, CR.
 
-<center>![](https://lh3.googleusercontent.com/9awAvX1pBfPe2GYkinNHBUyP42jDJyMdebRU02x7vxU8e2XR6ypmalxJ_TU9bwsIMIwxhHVRWxlEfC9cdGu6yT1QedUPe7kHzxxlEBGB8dz70OmNV2eYDcmFLqkgptuOFA)</center>
-
+![](l6_11.png)
 
 1. Из формулы расчета ROI можно вывести формулу для расчета оптимальной ставки (CPC) для требуемого ROI. Она имеет следующий вид: CPC = Доход / (ROI + 1) * Клики.
 
