@@ -44,9 +44,7 @@
 
 1. Теперь все это нужно объединить в один файл Excel. Для этого я использую надстройку под названием PLEX ([http://www.planetaexcel.ru/plex/](http://www.planetaexcel.ru/plex/)). Первым шагом собираем все в один файл при помощи функции “Сборка листов”.
 
-
-
-<center>![](https://lh5.googleusercontent.com/fNgTgHWcMI2ZbT617dej9o1Sm-omZSExc1lIVLnEfKFH5OMCdILjkUtJqhmVUwjcDgD7tOdEUYmcKy0SgpE-Mx2bZuS5fRUQBbgWzvvcXRA4cHNsVuDAJHD1YZD2EIjshA)</center>
+![](l6_2.png)
 
 Содержимое каждого файла оказывается на отдельном листе. При помощи функции “Собрать” переносим все на один лист.<center>![](https://lh3.googleusercontent.com/C4r6T31aPf01grRoKS41Xy7URLz-VUEqAXhj-opA8rE_W58ZEkb5SIzCVb0FALlAZJSo0MrGzgwE5tXkie_GDizijkR4Udd33vK0hA0a4rZDpUoAZDaaBU3_m7_W3QVoqQ)</center>
 
@@ -56,7 +54,7 @@
 
 #### Кейс 1. Анализ рекламных блоков
 
-<center>![](https://lh4.googleusercontent.com/y01nOSTFIkCnVnSeVYQgv059iEUYLui9AdcWNNtR9K-oKYqEa91k_IMrFw5U9xchL1yG0_4WHWnr4uoUCnslcF1TWDkzuh7TDiR5QdWSzxCgkw0e4rdYV-_kpaKlqk4q-g)</center>
+![](l6_4.png)
 
 При помощи полученной статистики мы можем сравнить CTR разных блоков (спецразмещение и гарантия + динамика) по всем кампаниям. CTR стоит  смотреть отдельно по каждому блоку, так как они очень сильно различаются. Можно анализировать эти данные как на уровне кампаний, так и на уровне ключевых фраз.
 
