@@ -100,8 +100,7 @@
 
 Посмотреть частоту показов для каждой фразы можно с помощью сервиса[ http://wordstat.yandex.ru.](http://wordstat.yandex.ru./) Частота показов для однословника обозначает число показов всех возможных вариантов фраз с этим словом, в том числе двусловников, трехсловников и т.д. Схематично такая частота показов на примере слова «холодильник» отображена на рис. 2.
 
-
-<center>![](https://lh3.googleusercontent.com/mwutd1Qgzt2xsxjq3Hc6Yr7VtVVwMyWOzbx1NWsFyAci81CvtDEloR5FOqtd1agr0gbPmUFGs2xWOXxCTWQTVXRUMSte7oH9tQ8QSe8w3qO7Xt5_k3WWWRdDtdyrhldiGA)</center>
+![](d7_1.png)
 
 <center>Рисунок 2. Схема вложенности частоты показов фраз, где каждая область характеризует частоту показов</center>
 
