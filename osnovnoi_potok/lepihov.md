@@ -139,10 +139,7 @@
 
 3. После расчета оптимального CPC рассчитываем финальную ставку (FinalCPC). Результат её расчета вы можете увидеть в крайнем правом столбце в таблице на рисунке выше. Теперь наши расчетные ставки прогружаем в Яндекс Директ. Для этого мне удобнее всего использовать Коммандер.
 
-
-
-<center>![](https://lh4.googleusercontent.com/0UrIBx4Teb3FSESMVsf_LGLF832CoIRCT_r4vmLO8Kcz-5K-wyfidwJxuvhdBmLyK_K40vQ8H7POcy58abb5dYm22ffcnkWXmAZBJBA0NP1b2wQ8-A_RQdTBzWzhnposuA)</center>
-
+![](l6_12.png)
 
 
 ### Заключение
