@@ -3,6 +3,7 @@
 ##### Автор: Олег Рудаков, Руководитель аналитического отдела, ADLABS
 ##### [Обсуждение](http://on.fb.me/1raBERs) / [презентация](http://slidesha.re/1raBI3B) / [видео](http://youtu.be/Ph1R-toqUCA)
 
+
 {% youtube %}http://youtu.be/Ph1R-toqUCA{% endyoutube %}
 
 <center><img src="https://lh6.googleusercontent.com/xd9caRwpj4p8oGFK_nPRr77rWwc1sfPyaBV0BYeRYIlLD_7Br_ZXioE9G98IFYTkKAOBJH1MuClGhzbEVSrOwwuilsYDlntxnpW-r-wbBB3p0XTl0YpCP9edN5CKOqn06Q" alt="Work for food" width="400"></center>
