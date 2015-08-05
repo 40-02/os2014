@@ -39,7 +39,9 @@
 1. Выгружаем отчеты по этим ссылкам при помощи менеджера закачек. Важно, что менеджер закачек должен уметь поддерживать возможность авторизации на сайте (я использую дополнение Chrono для браузера Chrome).
 
 1. В результате получаем множество xls-файлов. Имя каждого файла – это ID кампании.
-<center>![](https://lh5.googleusercontent.com/d32Pm1tkYIttBg8Gtoyv66JdtqSb1XdjmnPpCzkDvRoJ2Rmi3mL0buEuy1WKEGgc1VpmhjDS_xU3YaXXnmokLS1S9dfBVOfOebjPfFEGYRvwATB04fNuf5rxtB2Wg_SUEw)</center>
+
+![](l6_1.png)
+
 1. Теперь все это нужно объединить в один файл Excel. Для этого я использую надстройку под названием PLEX ([http://www.planetaexcel.ru/plex/](http://www.planetaexcel.ru/plex/)). Первым шагом собираем все в один файл при помощи функции “Сборка листов”.
 
 
