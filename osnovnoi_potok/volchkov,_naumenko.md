@@ -126,9 +126,7 @@
 
 Так как все же оценить, достаточно ли данных для анализа или нет на самом дискретном уровне?
 
-<center>![](https://lh3.googleusercontent.com/yxsXORk5eGnL2ktdBx9V7ulz_t9w4I08Sn6zu7NASgS21ge6Y7aYt0Z_pCmW08Bl5D8-RKlFjkeRVFu89aoW8qkTFT52bRqDmS3m8nhLrb2svM6qyWktqGhKeuxzm82t9QheCJJY0Vg)</center>
-
-
+![](nv4_3.jpg)
 
 Например, можно использовать следующий подход:
 
