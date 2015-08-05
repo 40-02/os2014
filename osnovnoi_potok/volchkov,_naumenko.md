@@ -82,7 +82,7 @@
 
 Ниже приведем пример, как можно проверить корректность распределения трафика между типами соответствия:
 
-<center>![](https://lh3.googleusercontent.com/Tawy09A64A5vJDEcEbjAWPd4qhUiuVrJXjYVp9WUBb1hIXkJh93KPXqQj1musvGjqPNknqhP8KJAo_fd08M3LkKx0IUgu6xUbxyXKtC-jWeocZg9Sk9lrR2PDANntq4Erh8Lu-Wmk8s)</center>
+![](4_1.png)
 
 Высокий процент показа объявлений по точному и фразовому типу соответствия свидетельствует о:
 
