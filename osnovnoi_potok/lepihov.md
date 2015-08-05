@@ -83,7 +83,7 @@
 
 Общую эффективность сравнили, эффективность использования изображений доказали, теперь проанализируем более детально самые популярные изображения.
 
-<center>![](https://lh6.googleusercontent.com/SP8zab8pr6FXwOJkc--OxVPZHG2wxKApClugkDbHAbe2nHOAgKrZEJ2WAWVDBV4Nv4hxfift9ydgWOZyUqHNEZeAwLXrdTTCCJxnrP9V0eH91Ic_wXwsaT6cWXIYhwLH1w)</center>
+![](l6_7.png)
 
 Для этого снова используем сводные таблицы Excel, но уже по конкретным изображениям. Чтобы загрузить изображения в Excel, удобно использовать надстройку PastePictures [http://excelvba.ru/programmes/PastePictures](http://excelvba.ru/programmes/PastePictures)).
 
@@ -100,9 +100,9 @@
 
 Для выгрузки статистики из Google Analytics предпочитаю использовать надстройку для Excel под названием NEXT Analytics ([http://www.nextanalytics.com/](http://www.nextanalytics.com/)). Данный инструмент не имеет ограничений на количество выгружаемых строк (например, выгрузить 200 тыс. строк для него не проблема), умеет обходить семплирование.
 
-<center>![](https://lh5.googleusercontent.com/U64dUwTixszFS964MdXzh6DQ2FTMzrgVClGkcewJrYeTbWDqKgYisF9CQrPxHObylbRR1UVOk3ZfeYFgzt_QRtW95djWnuS_THsAXZL_o18ZXXKmlNubszLBqr5D7TfoYw)</center>
+![](l6_8.png)
 
-Процесс семплирования  подразумевает анализ определенной выборки данных вместо всего объема для экономии аппаратных ресурсов серверов Google Analytics.
+Процесс семплирования подразумевает анализ определенной выборки данных вместо всего объема для экономии аппаратных ресурсов серверов Google Analytics.
 
 Когда Google семплирует данные?
 
