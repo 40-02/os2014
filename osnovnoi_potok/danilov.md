@@ -300,7 +300,7 @@ WS[однословника] ≥ WS[двухсловника] ≥ WS[трехс�
 
 Если же ставку задавать на уровне ключевых слов по историческим данным, исходя из предположений формул (16) и (17), возникает проблема для коэффициента конверсии, связанная со статистикой для низкочастотных ключевых слов (см. рис. 9).
 
-<center>![](https://lh4.googleusercontent.com/pG5afvzi3xmrSnhhq3akd7MSxJZIMMGGuv3L5rzSBh2w-5ga1i2SBYXu0U4RvHYNRM730-NSOTfL-OVyNaz-6SSDjWNPt2XOZf7BFtS86RVyFK-JoGTdYF4mEFa4gGhTOg)</center>
+![](d7_9.png)
 
 <center>Рисунок 9. Проблема НЧ - ключевых слов.</center>
 
@@ -329,36 +329,30 @@ CPA, как правило, до уровня ключевых слов не д�
 
 * Строим в Google Analytics такой отчет, как показано на рис.9.
 
-<center>![](https://lh5.googleusercontent.com/-Ic2_RIE0hnZEwuAt0Xw1k-KTffWf57u_D96s7U_dELqW30FN32nD2XWoj2YPAdr-p_ugwmOeCiPhRvSvLDB-zcvSugnGDWvEK4FnAnB3p3UOgHUqoiO6rW9_f3RXyhCRg)</center>
+![](d7_10.png)
 
 <center>Рисунок 9. Пользовательский отчет в Google Analytic.</center>
 
 * Теперь мы можем получить отчеты по распределению коэффициентов конверсий (см. рис. 10 и 11).
 
-<center>![](https://lh6.googleusercontent.com/cRi-bEeOeN9aY276cRNZjR7FJ2q5ZrgPb9gDBnSpwkx6IDtelYdP4I6gQLbbyp0GYf6yugptxszeD5UrmXH1O4V7XKcY_fuDWG7-1Fn2QtC0X2pmRqVDdXB8_Mp5WiZxQQ)</center>
+![](d7_11.png)
 
 <center>Рисунок 10. Пример распределения коэффициента конверсии (CR) в зависимости от для недели</center>
 
-<center>![](https://lh3.googleusercontent.com/nYHSFX7MoBm9QJJL2nZGDM2W6GcsWd9KIqXH6vHiYa07bKGwV0i5LK-CuBqj_tszQBnKtcIllB9Ait90t5XfUlNv_q2rsVak9TJ-qqkMk908dZXc6AoP4_nVbUvkofebwg)</center>
+![](d7_12.png)
 
 <center>Рисунок 11. Пример распределения коэффициента конверсии (CR) в зависимости от времени суток</center>
 
 * Сводя эти отчеты в Excel, можно получить матрицу распределений для коэффициента конверсии (см. рис. 12).
 
-
-<center>![](https://lh5.googleusercontent.com/DYhhbCs9jZhLFrzYguaUHWA8A9tEoYpBgm0GwTJBPcxFrMFoP6wJWFzL972fq3JMMWInjT0ZhrEoeNIFpvokpKshurnH6qx2EthydvOWkaNEZ6EcL2tyzdDyCKb5zGOc_w)</center>
+![](d7_13.png)
 
 <center>Рисунок 12. Матрица распределений для коэффициента конверсий</center>
 
 
 * Осталось только нормировать распределение CR  относительно средневзвешенного значения для коэффициента конверсии, и можно загрузить корректировки в систему Google AdWords* (см. рис. 13).
 
-
-<center>![](https://lh6.googleusercontent.com/FkMZ-cqLgCLXZPsaC21TqZgXs9o_h3_JvszmmZxGEYQTztHehJ-pAqb0-LjBaVIIrRTWUYp2FW-UpmGNcjtSteuBBuEpi-M4tVvr5ZNtEplPcwx6SQBLbfUygW-Bpgl8kQ)</center>
-
-
-
-
+![](d7_14.png)
 
 <center>Рисунок  13. Матрица  корректировок  ставок</center>
 
