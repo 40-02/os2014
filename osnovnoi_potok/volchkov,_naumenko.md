@@ -175,8 +175,7 @@ No data – No data – Great – Great – позволяет понять, ч�
 
 На основе нормированной оценки происходит расчет показателя качества размещения:
 
-<center>![](https://lh5.googleusercontent.com/iNB7NxaYkz5EGK5RuVH0r76IpDNlwAanjRbzSV2ivSDAiv-e8vCALSp5xWCmIMF-SS1MR47_BO1VSm8yI6-uqgpkErM_Ew1d7BLGhwya6UHwYKa0IaVjB2cAFq7rhqVvJB04lwuJ2Yo)</center>
-
+![](nv4_7.png)
 
 Для реализации данного подхода требуется применить комплексные методы расчетов и специальные функции. Как же обработать большой объем данных и произвести множество вычислений?
 
@@ -190,18 +189,14 @@ No data – No data – Great – Great – позволяет понять, ч�
 2. программы, общающиеся с пользователем в режиме команд (**SAS, S-PLUS и R**).
 
 
-
-<center>![](https://lh5.googleusercontent.com/6FART8XMj7ILIF8wJHEtrfejH3b1_4uTxWy5_ppYtR-KNvGMpUFRlAJWQvRuR468r1ZHp1rXzcQZvjHgJWK2jT8GrSwPyd63SOZQpm8SUOeabsawvQMpPQyIKnas2hC1bLkz4SbZtUI)</center>
-
+![](nv4_8.png)
 
 
 ###  Основные инструменты SEA
 
 Подводя итог, рассмотрим инструментарий, необходимый для эффективной работы и анализа контекстного размещения:
 
-
-<center>![](https://lh6.googleusercontent.com/JiqzlLkNm0ZD4JRTfldQi_57MWKPpXJsQHaNSQ_KMMenWnSKQST-sOl3JKdtvWvQk7Q-QKs3xUNWSiRFqSRzwof3L3Vb9_cvRVdZF6crJ7UGQX9Z-LVfJDmLsuhC_lm54zyDiVBLM7Q)</center>
-
+![](nv4_9.png)
 
 Базу инструментов составляют четыре элемента:
 
