@@ -1,3 +1,4 @@
+[![](920x200-3.jpg)](http://semconf.ru/?utm_source=book2014&utm_medium=banner&utm_campaign=book2014)
 # Послесловие
 
 4 сентября 2011 года была создана группа "контекстная реклама" в facebook. Выдумал - Максим Уваров.
