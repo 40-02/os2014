@@ -24,7 +24,7 @@
    * [Сергей Назаров](agentskiy_potok/nazarov.md)
    * [Анна Зимина](agentskiy_potok/zimina.md)
 * [Деньги побеждают зло!](bloody-money.md)
-   * [К50::Генератор](partners/k50generator.md)
+   * [Автоматизация от K☆50](partners/k50.md)
    * [CallTouch = Call Tracking](partners/calltracking.md)
    * [Unibrains, Kokoc Group](partners/kokoc_group.md)
    * [Elama](partners/elama.md)
