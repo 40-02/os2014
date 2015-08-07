@@ -1,4 +1,4 @@
-[![](920x200.jpg)](http://semconf.ru/)
+[![](920x200.jpg)](http://semconf.ru/?utm_source=book2014&utm_medium=banner&utm_campaign=book2014)
 # Внутренние оптимизаторы (Директ и AdWords) vs Внешние оптимизаторы (AdLens, Marin, К50):
 
 ### Как выбрать наиболее эффективный инструмент?
