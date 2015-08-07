@@ -1,3 +1,4 @@
+[![](920x200-4.jpg)](http://semconf.ru/?utm_source=book2014&utm_medium=banner&utm_campaign=book2014)
 ### Marketing-wiki.ru
 
 Весной 2013 года одним волонтером из Бразилии был создан проект - marketing-wiki.ru - вики движок для агрегации знаний по интернет-маркетингу в рунете.
