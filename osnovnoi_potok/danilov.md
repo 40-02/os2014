@@ -1,3 +1,4 @@
+[![](920x200.jpg)](http://semconf.ru/?utm_source=book2014&utm_medium=banner&utm_campaign=book2014)
 # Каверзный контекст в “перегретой” нише:
 ### Какой путь оптимальнее?
 
