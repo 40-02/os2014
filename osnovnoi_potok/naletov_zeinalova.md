@@ -1,3 +1,4 @@
+[![](920x200.jpg)](http://semconf.ru/?utm_source=book2014&utm_medium=banner&utm_campaign=book2014)
 # Достигли KPI - куда двигаться дальше? Проблемы больших аккаунтов, и как их решать
 
 ###### Авторы:
