@@ -1,5 +1,5 @@
 [![](920x200-8.jpg)](http://semconf.ru/?utm_source=book2014&utm_medium=banner&utm_campaign=book2014)
-![](http://dl.getdropbox.com/u/390630/bookcover_v11_FIN_5.jpg)
+
 <meta name="google-site-verification" content="JojxzlFd6vvAg1dFu1Ti892YRHDrWaymv-dQPfkJ80M" />
 #О сборнике статей
 
