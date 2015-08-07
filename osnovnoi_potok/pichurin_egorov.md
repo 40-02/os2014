@@ -1,3 +1,4 @@
+[![](920x200.jpg)](http://semconf.ru/?utm_source=book2014&utm_medium=banner&utm_campaign=book2014)
 # SEO работает - SEM отдыхает и собирает сливки, или Как наработки в SEO облегчают контекстнику жизнь #
 ### На примере кейса Price.Ru
 
