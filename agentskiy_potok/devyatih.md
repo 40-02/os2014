@@ -1,3 +1,4 @@
+[![](920x200-1.jpg)](http://semconf.ru/?utm_source=book2014&utm_medium=banner&utm_campaign=book2014)
 # Трудозатраты. Как считать и как снижать?
 
 ##### Автор: Денис Девятых, Руководитель проекта Origami #####
