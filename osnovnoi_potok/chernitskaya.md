@@ -1,3 +1,4 @@
+[![](920x200.jpg)](http://semconf.ru/?utm_source=book2014&utm_medium=banner&utm_campaign=book2014)
 # Тендеры осени: как сделать так, чтобы были счастливы и площадки, и клиент, и агентство
 ##### Автор: Мария Черницкая, председатель Комитета IAB Russia по контекстной рекламе и смежным рынкам, президент iConText Group
 ##### [Обсуждение](http://on.fb.me/1raBUQr) / [презентация](http://slidesha.re/1raBXeW) / [видео](http://youtu.be/aH5QzUxJ1W4)
