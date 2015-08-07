@@ -1,4 +1,4 @@
-####
+[![](920x200-8.jpg)](http://semconf.ru/?utm_source=book2014&utm_medium=banner&utm_campaign=book2014)
 ![](http://dl.getdropbox.com/u/390630/bookcover_v11_FIN_5.jpg)
 <meta name="google-site-verification" content="JojxzlFd6vvAg1dFu1Ti892YRHDrWaymv-dQPfkJ80M" />
 #О сборнике статей
@@ -18,8 +18,6 @@
 
 По ссылкам в книге вы можете найти обсуждения конкретных докладов и вопросы докладчикам конференции, а также ссылки на презентации наших спикеров. Пока без потока автоматизации.
 
-[![](920_100.jpg)](http://semconf.ru/?utm_source=book2014&utm_medium=banner&utm_campaign=book2014)
-
 
 ###История изменений
 ####v 1.0
@@ -31,6 +29,6 @@
 Обо всех найденных ошибках просьба сообщать по почте info@sem-in-russia.ru
 
 ### Скачать данный сборник можно в [pdf](https://www.gitbook.io/download/pdf/book/40-02/os2014?lang=), [mobi](https://www.gitbook.io/download/mobi/book/40-02/os2014?lang=), [epub](https://www.gitbook.io/download/epub/book/40-02/os2014?lang=).
-
+[![](920x200-8.jpg)](http://semconf.ru/?utm_source=book2014&utm_medium=banner&utm_campaign=book2014)
 
 ![Лого организаторов](http://dl.getdropbox.com/u/390630/for-book.png)
